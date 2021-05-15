@@ -1,0 +1,3586 @@
+Education Level Attained,Gender,Age,County,Occurrences
+Technical,Male,18 years,State,19803
+Technical,Male,18 years,Carlow,277
+Technical,Male,18 years,Dublin City,1649
+Technical,Male,18 years,Dun Laoghaire-Rathdown,531
+Technical,Male,18 years,Fingal,1128
+Technical,Male,18 years,South Dublin,1034
+Technical,Male,18 years,Kildare,899
+Technical,Male,18 years,Kilkenny,493
+Technical,Male,18 years,Laois,422
+Technical,Male,18 years,Longford,245
+Technical,Male,18 years,Louth,533
+Technical,Male,18 years,Meath,886
+Technical,Male,18 years,Offaly,405
+Technical,Male,18 years,Westmeath,391
+Technical,Male,18 years,Wexford,805
+Technical,Male,18 years,Wicklow,565
+Technical,Male,18 years,Clare,514
+Technical,Male,18 years,Cork City,417
+Technical,Male,18 years,Cork County,1957
+Technical,Male,18 years,Kerry,683
+Technical,Male,18 years,Limerick City and County,826
+Technical,Male,18 years,Tipperary,782
+Technical,Male,18 years,Waterford City and County,472
+Technical,Male,18 years,Galway City,271
+Technical,Male,18 years,Galway County,844
+Technical,Male,18 years,Leitrim,163
+Technical,Male,18 years,Mayo,592
+Technical,Male,18 years,Roscommon,303
+Technical,Male,18 years,Sligo,317
+Technical,Male,18 years,Cavan,468
+Technical,Male,18 years,Donegal,601
+Technical,Male,18 years,Monaghan,330
+Technical,Male,19 years,State,10814
+Technical,Male,19 years,Carlow,162
+Technical,Male,19 years,Dublin City,922
+Technical,Male,19 years,Dun Laoghaire-Rathdown,277
+Technical,Male,19 years,Fingal,701
+Technical,Male,19 years,South Dublin,598
+Technical,Male,19 years,Kildare,501
+Technical,Male,19 years,Kilkenny,241
+Technical,Male,19 years,Laois,215
+Technical,Male,19 years,Longford,141
+Technical,Male,19 years,Louth,270
+Technical,Male,19 years,Meath,486
+Technical,Male,19 years,Offaly,181
+Technical,Male,19 years,Westmeath,211
+Technical,Male,19 years,Wexford,440
+Technical,Male,19 years,Wicklow,288
+Technical,Male,19 years,Clare,270
+Technical,Male,19 years,Cork City,212
+Technical,Male,19 years,Cork County,1144
+Technical,Male,19 years,Kerry,343
+Technical,Male,19 years,Limerick City and County,410
+Technical,Male,19 years,Tipperary,450
+Technical,Male,19 years,Waterford City and County,258
+Technical,Male,19 years,Galway City,175
+Technical,Male,19 years,Galway County,456
+Technical,Male,19 years,Leitrim,89
+Technical,Male,19 years,Mayo,344
+Technical,Male,19 years,Roscommon,165
+Technical,Male,19 years,Sligo,146
+Technical,Male,19 years,Cavan,291
+Technical,Male,19 years,Donegal,272
+Technical,Male,19 years,Monaghan,155
+Technical,Male,20 years,State,10426
+Technical,Male,20 years,Carlow,145
+Technical,Male,20 years,Dublin City,854
+Technical,Male,20 years,Dun Laoghaire-Rathdown,329
+Technical,Male,20 years,Fingal,683
+Technical,Male,20 years,South Dublin,587
+Technical,Male,20 years,Kildare,519
+Technical,Male,20 years,Kilkenny,252
+Technical,Male,20 years,Laois,179
+Technical,Male,20 years,Longford,120
+Technical,Male,20 years,Louth,295
+Technical,Male,20 years,Meath,477
+Technical,Male,20 years,Offaly,195
+Technical,Male,20 years,Westmeath,201
+Technical,Male,20 years,Wexford,344
+Technical,Male,20 years,Wicklow,300
+Technical,Male,20 years,Clare,274
+Technical,Male,20 years,Cork City,253
+Technical,Male,20 years,Cork County,1175
+Technical,Male,20 years,Kerry,370
+Technical,Male,20 years,Limerick City and County,420
+Technical,Male,20 years,Tipperary,332
+Technical,Male,20 years,Waterford City and County,223
+Technical,Male,20 years,Galway City,207
+Technical,Male,20 years,Galway County,459
+Technical,Male,20 years,Leitrim,69
+Technical,Male,20 years,Mayo,293
+Technical,Male,20 years,Roscommon,148
+Technical,Male,20 years,Sligo,139
+Technical,Male,20 years,Cavan,246
+Technical,Male,20 years,Donegal,216
+Technical,Male,20 years,Monaghan,122
+Technical,Male,21 years,State,6185
+Technical,Male,21 years,Carlow,71
+Technical,Male,21 years,Dublin City,565
+Technical,Male,21 years,Dun Laoghaire-Rathdown,260
+Technical,Male,21 years,Fingal,434
+Technical,Male,21 years,South Dublin,372
+Technical,Male,21 years,Kildare,317
+Technical,Male,21 years,Kilkenny,123
+Technical,Male,21 years,Laois,87
+Technical,Male,21 years,Longford,66
+Technical,Male,21 years,Louth,160
+Technical,Male,21 years,Meath,265
+Technical,Male,21 years,Offaly,86
+Technical,Male,21 years,Westmeath,96
+Technical,Male,21 years,Wexford,209
+Technical,Male,21 years,Wicklow,181
+Technical,Male,21 years,Clare,147
+Technical,Male,21 years,Cork City,183
+Technical,Male,21 years,Cork County,772
+Technical,Male,21 years,Kerry,219
+Technical,Male,21 years,Limerick City and County,221
+Technical,Male,21 years,Tipperary,186
+Technical,Male,21 years,Waterford City and County,140
+Technical,Male,21 years,Galway City,115
+Technical,Male,21 years,Galway County,241
+Technical,Male,21 years,Leitrim,37
+Technical,Male,21 years,Mayo,162
+Technical,Male,21 years,Roscommon,72
+Technical,Male,21 years,Sligo,87
+Technical,Male,21 years,Cavan,117
+Technical,Male,21 years,Donegal,131
+Technical,Male,21 years,Monaghan,63
+Technical,Male,22 years,State,3532
+Technical,Male,22 years,Carlow,42
+Technical,Male,22 years,Dublin City,384
+Technical,Male,22 years,Dun Laoghaire-Rathdown,159
+Technical,Male,22 years,Fingal,226
+Technical,Male,22 years,South Dublin,217
+Technical,Male,22 years,Kildare,189
+Technical,Male,22 years,Kilkenny,65
+Technical,Male,22 years,Laois,51
+Technical,Male,22 years,Longford,26
+Technical,Male,22 years,Louth,70
+Technical,Male,22 years,Meath,163
+Technical,Male,22 years,Offaly,53
+Technical,Male,22 years,Westmeath,66
+Technical,Male,22 years,Wexford,95
+Technical,Male,22 years,Wicklow,107
+Technical,Male,22 years,Clare,82
+Technical,Male,22 years,Cork City,98
+Technical,Male,22 years,Cork County,402
+Technical,Male,22 years,Kerry,117
+Technical,Male,22 years,Limerick City and County,135
+Technical,Male,22 years,Tipperary,99
+Technical,Male,22 years,Waterford City and County,69
+Technical,Male,22 years,Galway City,72
+Technical,Male,22 years,Galway County,137
+Technical,Male,22 years,Leitrim,26
+Technical,Male,22 years,Mayo,101
+Technical,Male,22 years,Roscommon,32
+Technical,Male,22 years,Sligo,36
+Technical,Male,22 years,Cavan,80
+Technical,Male,22 years,Donegal,89
+Technical,Male,22 years,Monaghan,44
+Technical,Male,23 years,State,1825
+Technical,Male,23 years,Carlow,24
+Technical,Male,23 years,Dublin City,226
+Technical,Male,23 years,Dun Laoghaire-Rathdown,70
+Technical,Male,23 years,Fingal,131
+Technical,Male,23 years,South Dublin,110
+Technical,Male,23 years,Kildare,94
+Technical,Male,23 years,Kilkenny,29
+Technical,Male,23 years,Laois,26
+Technical,Male,23 years,Longford,17
+Technical,Male,23 years,Louth,31
+Technical,Male,23 years,Meath,69
+Technical,Male,23 years,Offaly,27
+Technical,Male,23 years,Westmeath,29
+Technical,Male,23 years,Wexford,68
+Technical,Male,23 years,Wicklow,57
+Technical,Male,23 years,Clare,49
+Technical,Male,23 years,Cork City,55
+Technical,Male,23 years,Cork County,209
+Technical,Male,23 years,Kerry,51
+Technical,Male,23 years,Limerick City and County,70
+Technical,Male,23 years,Tipperary,46
+Technical,Male,23 years,Waterford City and County,36
+Technical,Male,23 years,Galway City,48
+Technical,Male,23 years,Galway County,63
+Technical,Male,23 years,Leitrim,11
+Technical,Male,23 years,Mayo,49
+Technical,Male,23 years,Roscommon,30
+Technical,Male,23 years,Sligo,16
+Technical,Male,23 years,Cavan,34
+Technical,Male,23 years,Donegal,36
+Technical,Male,23 years,Monaghan,14
+Technical,Male,24 years,State,1263
+Technical,Male,24 years,Carlow,21
+Technical,Male,24 years,Dublin City,161
+Technical,Male,24 years,Dun Laoghaire-Rathdown,51
+Technical,Male,24 years,Fingal,87
+Technical,Male,24 years,South Dublin,96
+Technical,Male,24 years,Kildare,57
+Technical,Male,24 years,Kilkenny,25
+Technical,Male,24 years,Laois,26
+Technical,Male,24 years,Longford,15
+Technical,Male,24 years,Louth,35
+Technical,Male,24 years,Meath,50
+Technical,Male,24 years,Offaly,19
+Technical,Male,24 years,Westmeath,17
+Technical,Male,24 years,Wexford,34
+Technical,Male,24 years,Wicklow,43
+Technical,Male,24 years,Clare,24
+Technical,Male,24 years,Cork City,42
+Technical,Male,24 years,Cork County,109
+Technical,Male,24 years,Kerry,46
+Technical,Male,24 years,Limerick City and County,45
+Technical,Male,24 years,Tipperary,31
+Technical,Male,24 years,Waterford City and County,24
+Technical,Male,24 years,Galway City,25
+Technical,Male,24 years,Galway County,52
+Technical,Male,24 years,Leitrim,9
+Technical,Male,24 years,Mayo,33
+Technical,Male,24 years,Roscommon,12
+Technical,Male,24 years,Sligo,13
+Technical,Male,24 years,Cavan,19
+Technical,Male,24 years,Donegal,28
+Technical,Male,24 years,Monaghan,14
+Technical,Male,25 years and over,State,5580
+Technical,Male,25 years and over,Carlow,46
+Technical,Male,25 years and over,Dublin City,740
+Technical,Male,25 years and over,Dun Laoghaire-Rathdown,211
+Technical,Male,25 years and over,Fingal,384
+Technical,Male,25 years and over,South Dublin,348
+Technical,Male,25 years and over,Kildare,246
+Technical,Male,25 years and over,Kilkenny,119
+Technical,Male,25 years and over,Laois,89
+Technical,Male,25 years and over,Longford,46
+Technical,Male,25 years and over,Louth,171
+Technical,Male,25 years and over,Meath,181
+Technical,Male,25 years and over,Offaly,66
+Technical,Male,25 years and over,Westmeath,96
+Technical,Male,25 years and over,Wexford,158
+Technical,Male,25 years and over,Wicklow,191
+Technical,Male,25 years and over,Clare,139
+Technical,Male,25 years and over,Cork City,222
+Technical,Male,25 years and over,Cork County,539
+Technical,Male,25 years and over,Kerry,167
+Technical,Male,25 years and over,Limerick City and County,204
+Technical,Male,25 years and over,Tipperary,160
+Technical,Male,25 years and over,Waterford City and County,164
+Technical,Male,25 years and over,Galway City,119
+Technical,Male,25 years and over,Galway County,167
+Technical,Male,25 years and over,Leitrim,43
+Technical,Male,25 years and over,Mayo,134
+Technical,Male,25 years and over,Roscommon,73
+Technical,Male,25 years and over,Sligo,96
+Technical,Male,25 years and over,Cavan,87
+Technical,Male,25 years and over,Donegal,112
+Technical,Male,25 years and over,Monaghan,62
+Technical,Female,18 years,State,27536
+Technical,Female,18 years,Carlow,376
+Technical,Female,18 years,Dublin City,2289
+Technical,Female,18 years,Dun Laoghaire-Rathdown,907
+Technical,Female,18 years,Fingal,1735
+Technical,Female,18 years,South Dublin,1592
+Technical,Female,18 years,Kildare,1352
+Technical,Female,18 years,Kilkenny,675
+Technical,Female,18 years,Laois,545
+Technical,Female,18 years,Longford,265
+Technical,Female,18 years,Louth,726
+Technical,Female,18 years,Meath,1293
+Technical,Female,18 years,Offaly,507
+Technical,Female,18 years,Westmeath,490
+Technical,Female,18 years,Wexford,1208
+Technical,Female,18 years,Wicklow,923
+Technical,Female,18 years,Clare,738
+Technical,Female,18 years,Cork City,555
+Technical,Female,18 years,Cork County,2481
+Technical,Female,18 years,Kerry,852
+Technical,Female,18 years,Limerick City and County,1135
+Technical,Female,18 years,Tipperary,1049
+Technical,Female,18 years,Waterford City and County,740
+Technical,Female,18 years,Galway City,325
+Technical,Female,18 years,Galway County,1077
+Technical,Female,18 years,Leitrim,194
+Technical,Female,18 years,Mayo,847
+Technical,Female,18 years,Roscommon,408
+Technical,Female,18 years,Sligo,401
+Technical,Female,18 years,Cavan,584
+Technical,Female,18 years,Donegal,849
+Technical,Female,18 years,Monaghan,418
+Technical,Female,19 years,State,18235
+Technical,Female,19 years,Carlow,279
+Technical,Female,19 years,Dublin City,1309
+Technical,Female,19 years,Dun Laoghaire-Rathdown,576
+Technical,Female,19 years,Fingal,1158
+Technical,Female,19 years,South Dublin,962
+Technical,Female,19 years,Kildare,930
+Technical,Female,19 years,Kilkenny,448
+Technical,Female,19 years,Laois,426
+Technical,Female,19 years,Longford,155
+Technical,Female,19 years,Louth,547
+Technical,Female,19 years,Meath,892
+Technical,Female,19 years,Offaly,301
+Technical,Female,19 years,Westmeath,320
+Technical,Female,19 years,Wexford,755
+Technical,Female,19 years,Wicklow,609
+Technical,Female,19 years,Clare,469
+Technical,Female,19 years,Cork City,382
+Technical,Female,19 years,Cork County,2046
+Technical,Female,19 years,Kerry,567
+Technical,Female,19 years,Limerick City and County,774
+Technical,Female,19 years,Tipperary,688
+Technical,Female,19 years,Waterford City and County,481
+Technical,Female,19 years,Galway City,227
+Technical,Female,19 years,Galway County,751
+Technical,Female,19 years,Leitrim,124
+Technical,Female,19 years,Mayo,520
+Technical,Female,19 years,Roscommon,239
+Technical,Female,19 years,Sligo,221
+Technical,Female,19 years,Cavan,395
+Technical,Female,19 years,Donegal,445
+Technical,Female,19 years,Monaghan,239
+Technical,Female,20 years,State,12555
+Technical,Female,20 years,Carlow,156
+Technical,Female,20 years,Dublin City,929
+Technical,Female,20 years,Dun Laoghaire-Rathdown,443
+Technical,Female,20 years,Fingal,813
+Technical,Female,20 years,South Dublin,681
+Technical,Female,20 years,Kildare,611
+Technical,Female,20 years,Kilkenny,300
+Technical,Female,20 years,Laois,245
+Technical,Female,20 years,Longford,117
+Technical,Female,20 years,Louth,343
+Technical,Female,20 years,Meath,578
+Technical,Female,20 years,Offaly,202
+Technical,Female,20 years,Westmeath,192
+Technical,Female,20 years,Wexford,474
+Technical,Female,20 years,Wicklow,410
+Technical,Female,20 years,Clare,275
+Technical,Female,20 years,Cork City,292
+Technical,Female,20 years,Cork County,1504
+Technical,Female,20 years,Kerry,444
+Technical,Female,20 years,Limerick City and County,555
+Technical,Female,20 years,Tipperary,395
+Technical,Female,20 years,Waterford City and County,298
+Technical,Female,20 years,Galway City,199
+Technical,Female,20 years,Galway County,461
+Technical,Female,20 years,Leitrim,76
+Technical,Female,20 years,Mayo,337
+Technical,Female,20 years,Roscommon,156
+Technical,Female,20 years,Sligo,161
+Technical,Female,20 years,Cavan,300
+Technical,Female,20 years,Donegal,399
+Technical,Female,20 years,Monaghan,209
+Technical,Female,21 years,State,6144
+Technical,Female,21 years,Carlow,84
+Technical,Female,21 years,Dublin City,497
+Technical,Female,21 years,Dun Laoghaire-Rathdown,213
+Technical,Female,21 years,Fingal,387
+Technical,Female,21 years,South Dublin,335
+Technical,Female,21 years,Kildare,242
+Technical,Female,21 years,Kilkenny,137
+Technical,Female,21 years,Laois,101
+Technical,Female,21 years,Longford,56
+Technical,Female,21 years,Louth,178
+Technical,Female,21 years,Meath,253
+Technical,Female,21 years,Offaly,85
+Technical,Female,21 years,Westmeath,114
+Technical,Female,21 years,Wexford,209
+Technical,Female,21 years,Wicklow,185
+Technical,Female,21 years,Clare,165
+Technical,Female,21 years,Cork City,148
+Technical,Female,21 years,Cork County,758
+Technical,Female,21 years,Kerry,217
+Technical,Female,21 years,Limerick City and County,228
+Technical,Female,21 years,Tipperary,207
+Technical,Female,21 years,Waterford City and County,143
+Technical,Female,21 years,Galway City,114
+Technical,Female,21 years,Galway County,274
+Technical,Female,21 years,Leitrim,35
+Technical,Female,21 years,Mayo,179
+Technical,Female,21 years,Roscommon,82
+Technical,Female,21 years,Sligo,79
+Technical,Female,21 years,Cavan,145
+Technical,Female,21 years,Donegal,199
+Technical,Female,21 years,Monaghan,95
+Technical,Female,22 years,State,3455
+Technical,Female,22 years,Carlow,47
+Technical,Female,22 years,Dublin City,324
+Technical,Female,22 years,Dun Laoghaire-Rathdown,125
+Technical,Female,22 years,Fingal,208
+Technical,Female,22 years,South Dublin,200
+Technical,Female,22 years,Kildare,159
+Technical,Female,22 years,Kilkenny,66
+Technical,Female,22 years,Laois,72
+Technical,Female,22 years,Longford,38
+Technical,Female,22 years,Louth,100
+Technical,Female,22 years,Meath,158
+Technical,Female,22 years,Offaly,53
+Technical,Female,22 years,Westmeath,50
+Technical,Female,22 years,Wexford,110
+Technical,Female,22 years,Wicklow,94
+Technical,Female,22 years,Clare,78
+Technical,Female,22 years,Cork City,86
+Technical,Female,22 years,Cork County,417
+Technical,Female,22 years,Kerry,103
+Technical,Female,22 years,Limerick City and County,124
+Technical,Female,22 years,Tipperary,100
+Technical,Female,22 years,Waterford City and County,83
+Technical,Female,22 years,Galway City,70
+Technical,Female,22 years,Galway County,128
+Technical,Female,22 years,Leitrim,20
+Technical,Female,22 years,Mayo,116
+Technical,Female,22 years,Roscommon,39
+Technical,Female,22 years,Sligo,53
+Technical,Female,22 years,Cavan,81
+Technical,Female,22 years,Donegal,96
+Technical,Female,22 years,Monaghan,57
+Technical,Female,23 years,State,1811
+Technical,Female,23 years,Carlow,22
+Technical,Female,23 years,Dublin City,201
+Technical,Female,23 years,Dun Laoghaire-Rathdown,52
+Technical,Female,23 years,Fingal,125
+Technical,Female,23 years,South Dublin,92
+Technical,Female,23 years,Kildare,85
+Technical,Female,23 years,Kilkenny,38
+Technical,Female,23 years,Laois,44
+Technical,Female,23 years,Longford,17
+Technical,Female,23 years,Louth,52
+Technical,Female,23 years,Meath,64
+Technical,Female,23 years,Offaly,27
+Technical,Female,23 years,Westmeath,35
+Technical,Female,23 years,Wexford,63
+Technical,Female,23 years,Wicklow,58
+Technical,Female,23 years,Clare,42
+Technical,Female,23 years,Cork City,51
+Technical,Female,23 years,Cork County,173
+Technical,Female,23 years,Kerry,69
+Technical,Female,23 years,Limerick City and County,75
+Technical,Female,23 years,Tipperary,61
+Technical,Female,23 years,Waterford City and County,43
+Technical,Female,23 years,Galway City,43
+Technical,Female,23 years,Galway County,56
+Technical,Female,23 years,Leitrim,9
+Technical,Female,23 years,Mayo,49
+Technical,Female,23 years,Roscommon,27
+Technical,Female,23 years,Sligo,29
+Technical,Female,23 years,Cavan,34
+Technical,Female,23 years,Donegal,49
+Technical,Female,23 years,Monaghan,26
+Technical,Female,24 years,State,1403
+Technical,Female,24 years,Carlow,15
+Technical,Female,24 years,Dublin City,122
+Technical,Female,24 years,Dun Laoghaire-Rathdown,59
+Technical,Female,24 years,Fingal,92
+Technical,Female,24 years,South Dublin,75
+Technical,Female,24 years,Kildare,55
+Technical,Female,24 years,Kilkenny,28
+Technical,Female,24 years,Laois,42
+Technical,Female,24 years,Longford,13
+Technical,Female,24 years,Louth,40
+Technical,Female,24 years,Meath,43
+Technical,Female,24 years,Offaly,25
+Technical,Female,24 years,Westmeath,22
+Technical,Female,24 years,Wexford,42
+Technical,Female,24 years,Wicklow,40
+Technical,Female,24 years,Clare,33
+Technical,Female,24 years,Cork City,48
+Technical,Female,24 years,Cork County,155
+Technical,Female,24 years,Kerry,52
+Technical,Female,24 years,Limerick City and County,59
+Technical,Female,24 years,Tipperary,45
+Technical,Female,24 years,Waterford City and County,30
+Technical,Female,24 years,Galway City,23
+Technical,Female,24 years,Galway County,67
+Technical,Female,24 years,Leitrim,8
+Technical,Female,24 years,Mayo,47
+Technical,Female,24 years,Roscommon,10
+Technical,Female,24 years,Sligo,24
+Technical,Female,24 years,Cavan,29
+Technical,Female,24 years,Donegal,43
+Technical,Female,24 years,Monaghan,17
+Technical,Female,25 years and over,State,9215
+Technical,Female,25 years and over,Carlow,122
+Technical,Female,25 years and over,Dublin City,869
+Technical,Female,25 years and over,Dun Laoghaire-Rathdown,371
+Technical,Female,25 years and over,Fingal,528
+Technical,Female,25 years and over,South Dublin,490
+Technical,Female,25 years and over,Kildare,382
+Technical,Female,25 years and over,Kilkenny,229
+Technical,Female,25 years and over,Laois,198
+Technical,Female,25 years and over,Longford,81
+Technical,Female,25 years and over,Louth,277
+Technical,Female,25 years and over,Meath,364
+Technical,Female,25 years and over,Offaly,121
+Technical,Female,25 years and over,Westmeath,160
+Technical,Female,25 years and over,Wexford,381
+Technical,Female,25 years and over,Wicklow,361
+Technical,Female,25 years and over,Clare,252
+Technical,Female,25 years and over,Cork City,249
+Technical,Female,25 years and over,Cork County,915
+Technical,Female,25 years and over,Kerry,261
+Technical,Female,25 years and over,Limerick City and County,326
+Technical,Female,25 years and over,Tipperary,308
+Technical,Female,25 years and over,Waterford City and County,296
+Technical,Female,25 years and over,Galway City,150
+Technical,Female,25 years and over,Galway County,317
+Technical,Female,25 years and over,Leitrim,60
+Technical,Female,25 years and over,Mayo,243
+Technical,Female,25 years and over,Roscommon,135
+Technical,Female,25 years and over,Sligo,133
+Technical,Female,25 years and over,Cavan,219
+Technical,Female,25 years and over,Donegal,308
+Technical,Female,25 years and over,Monaghan,109
+Advanced certificate,Male,18 years,State,16775
+Advanced certificate,Male,18 years,Carlow,239
+Advanced certificate,Male,18 years,Dublin City,1114
+Advanced certificate,Male,18 years,Dun Laoghaire-Rathdown,424
+Advanced certificate,Male,18 years,Fingal,928
+Advanced certificate,Male,18 years,South Dublin,908
+Advanced certificate,Male,18 years,Kildare,842
+Advanced certificate,Male,18 years,Kilkenny,528
+Advanced certificate,Male,18 years,Laois,355
+Advanced certificate,Male,18 years,Longford,148
+Advanced certificate,Male,18 years,Louth,411
+Advanced certificate,Male,18 years,Meath,811
+Advanced certificate,Male,18 years,Offaly,336
+Advanced certificate,Male,18 years,Westmeath,316
+Advanced certificate,Male,18 years,Wexford,641
+Advanced certificate,Male,18 years,Wicklow,556
+Advanced certificate,Male,18 years,Clare,548
+Advanced certificate,Male,18 years,Cork City,317
+Advanced certificate,Male,18 years,Cork County,1878
+Advanced certificate,Male,18 years,Kerry,550
+Advanced certificate,Male,18 years,Limerick City and County,817
+Advanced certificate,Male,18 years,Tipperary,781
+Advanced certificate,Male,18 years,Waterford City and County,447
+Advanced certificate,Male,18 years,Galway City,147
+Advanced certificate,Male,18 years,Galway County,710
+Advanced certificate,Male,18 years,Leitrim,113
+Advanced certificate,Male,18 years,Mayo,481
+Advanced certificate,Male,18 years,Roscommon,216
+Advanced certificate,Male,18 years,Sligo,250
+Advanced certificate,Male,18 years,Cavan,281
+Advanced certificate,Male,18 years,Donegal,436
+Advanced certificate,Male,18 years,Monaghan,246
+Advanced certificate,Male,19 years,State,7962
+Advanced certificate,Male,19 years,Carlow,123
+Advanced certificate,Male,19 years,Dublin City,461
+Advanced certificate,Male,19 years,Dun Laoghaire-Rathdown,174
+Advanced certificate,Male,19 years,Fingal,372
+Advanced certificate,Male,19 years,South Dublin,360
+Advanced certificate,Male,19 years,Kildare,349
+Advanced certificate,Male,19 years,Kilkenny,273
+Advanced certificate,Male,19 years,Laois,181
+Advanced certificate,Male,19 years,Longford,71
+Advanced certificate,Male,19 years,Louth,207
+Advanced certificate,Male,19 years,Meath,355
+Advanced certificate,Male,19 years,Offaly,168
+Advanced certificate,Male,19 years,Westmeath,177
+Advanced certificate,Male,19 years,Wexford,355
+Advanced certificate,Male,19 years,Wicklow,243
+Advanced certificate,Male,19 years,Clare,239
+Advanced certificate,Male,19 years,Cork City,120
+Advanced certificate,Male,19 years,Cork County,947
+Advanced certificate,Male,19 years,Kerry,311
+Advanced certificate,Male,19 years,Limerick City and County,321
+Advanced certificate,Male,19 years,Tipperary,344
+Advanced certificate,Male,19 years,Waterford City and County,232
+Advanced certificate,Male,19 years,Galway City,81
+Advanced certificate,Male,19 years,Galway County,326
+Advanced certificate,Male,19 years,Leitrim,77
+Advanced certificate,Male,19 years,Mayo,262
+Advanced certificate,Male,19 years,Roscommon,124
+Advanced certificate,Male,19 years,Sligo,128
+Advanced certificate,Male,19 years,Cavan,205
+Advanced certificate,Male,19 years,Donegal,255
+Advanced certificate,Male,19 years,Monaghan,121
+Advanced certificate,Male,20 years,State,9965
+Advanced certificate,Male,20 years,Carlow,185
+Advanced certificate,Male,20 years,Dublin City,590
+Advanced certificate,Male,20 years,Dun Laoghaire-Rathdown,223
+Advanced certificate,Male,20 years,Fingal,547
+Advanced certificate,Male,20 years,South Dublin,419
+Advanced certificate,Male,20 years,Kildare,461
+Advanced certificate,Male,20 years,Kilkenny,322
+Advanced certificate,Male,20 years,Laois,187
+Advanced certificate,Male,20 years,Longford,107
+Advanced certificate,Male,20 years,Louth,246
+Advanced certificate,Male,20 years,Meath,468
+Advanced certificate,Male,20 years,Offaly,216
+Advanced certificate,Male,20 years,Westmeath,205
+Advanced certificate,Male,20 years,Wexford,393
+Advanced certificate,Male,20 years,Wicklow,309
+Advanced certificate,Male,20 years,Clare,296
+Advanced certificate,Male,20 years,Cork City,173
+Advanced certificate,Male,20 years,Cork County,1132
+Advanced certificate,Male,20 years,Kerry,420
+Advanced certificate,Male,20 years,Limerick City and County,429
+Advanced certificate,Male,20 years,Tipperary,378
+Advanced certificate,Male,20 years,Waterford City and County,248
+Advanced certificate,Male,20 years,Galway City,103
+Advanced certificate,Male,20 years,Galway County,462
+Advanced certificate,Male,20 years,Leitrim,90
+Advanced certificate,Male,20 years,Mayo,302
+Advanced certificate,Male,20 years,Roscommon,192
+Advanced certificate,Male,20 years,Sligo,138
+Advanced certificate,Male,20 years,Cavan,261
+Advanced certificate,Male,20 years,Donegal,311
+Advanced certificate,Male,20 years,Monaghan,152
+Advanced certificate,Male,21 years,State,9471
+Advanced certificate,Male,21 years,Carlow,145
+Advanced certificate,Male,21 years,Dublin City,565
+Advanced certificate,Male,21 years,Dun Laoghaire-Rathdown,256
+Advanced certificate,Male,21 years,Fingal,470
+Advanced certificate,Male,21 years,South Dublin,437
+Advanced certificate,Male,21 years,Kildare,449
+Advanced certificate,Male,21 years,Kilkenny,314
+Advanced certificate,Male,21 years,Laois,175
+Advanced certificate,Male,21 years,Longford,103
+Advanced certificate,Male,21 years,Louth,245
+Advanced certificate,Male,21 years,Meath,418
+Advanced certificate,Male,21 years,Offaly,188
+Advanced certificate,Male,21 years,Westmeath,196
+Advanced certificate,Male,21 years,Wexford,347
+Advanced certificate,Male,21 years,Wicklow,299
+Advanced certificate,Male,21 years,Clare,309
+Advanced certificate,Male,21 years,Cork City,178
+Advanced certificate,Male,21 years,Cork County,1138
+Advanced certificate,Male,21 years,Kerry,381
+Advanced certificate,Male,21 years,Limerick City and County,430
+Advanced certificate,Male,21 years,Tipperary,406
+Advanced certificate,Male,21 years,Waterford City and County,226
+Advanced certificate,Male,21 years,Galway City,91
+Advanced certificate,Male,21 years,Galway County,426
+Advanced certificate,Male,21 years,Leitrim,83
+Advanced certificate,Male,21 years,Mayo,310
+Advanced certificate,Male,21 years,Roscommon,153
+Advanced certificate,Male,21 years,Sligo,153
+Advanced certificate,Male,21 years,Cavan,227
+Advanced certificate,Male,21 years,Donegal,239
+Advanced certificate,Male,21 years,Monaghan,114
+Advanced certificate,Male,22 years,State,7423
+Advanced certificate,Male,22 years,Carlow,100
+Advanced certificate,Male,22 years,Dublin City,439
+Advanced certificate,Male,22 years,Dun Laoghaire-Rathdown,168
+Advanced certificate,Male,22 years,Fingal,352
+Advanced certificate,Male,22 years,South Dublin,301
+Advanced certificate,Male,22 years,Kildare,394
+Advanced certificate,Male,22 years,Kilkenny,221
+Advanced certificate,Male,22 years,Laois,150
+Advanced certificate,Male,22 years,Longford,65
+Advanced certificate,Male,22 years,Louth,187
+Advanced certificate,Male,22 years,Meath,397
+Advanced certificate,Male,22 years,Offaly,151
+Advanced certificate,Male,22 years,Westmeath,142
+Advanced certificate,Male,22 years,Wexford,277
+Advanced certificate,Male,22 years,Wicklow,265
+Advanced certificate,Male,22 years,Clare,232
+Advanced certificate,Male,22 years,Cork City,115
+Advanced certificate,Male,22 years,Cork County,863
+Advanced certificate,Male,22 years,Kerry,316
+Advanced certificate,Male,22 years,Limerick City and County,351
+Advanced certificate,Male,22 years,Tipperary,301
+Advanced certificate,Male,22 years,Waterford City and County,197
+Advanced certificate,Male,22 years,Galway City,68
+Advanced certificate,Male,22 years,Galway County,370
+Advanced certificate,Male,22 years,Leitrim,53
+Advanced certificate,Male,22 years,Mayo,283
+Advanced certificate,Male,22 years,Roscommon,127
+Advanced certificate,Male,22 years,Sligo,115
+Advanced certificate,Male,22 years,Cavan,154
+Advanced certificate,Male,22 years,Donegal,177
+Advanced certificate,Male,22 years,Monaghan,92
+Advanced certificate,Male,23 years,State,3647
+Advanced certificate,Male,23 years,Carlow,61
+Advanced certificate,Male,23 years,Dublin City,225
+Advanced certificate,Male,23 years,Dun Laoghaire-Rathdown,96
+Advanced certificate,Male,23 years,Fingal,204
+Advanced certificate,Male,23 years,South Dublin,145
+Advanced certificate,Male,23 years,Kildare,167
+Advanced certificate,Male,23 years,Kilkenny,99
+Advanced certificate,Male,23 years,Laois,84
+Advanced certificate,Male,23 years,Longford,31
+Advanced certificate,Male,23 years,Louth,103
+Advanced certificate,Male,23 years,Meath,203
+Advanced certificate,Male,23 years,Offaly,78
+Advanced certificate,Male,23 years,Westmeath,67
+Advanced certificate,Male,23 years,Wexford,133
+Advanced certificate,Male,23 years,Wicklow,122
+Advanced certificate,Male,23 years,Clare,96
+Advanced certificate,Male,23 years,Cork City,87
+Advanced certificate,Male,23 years,Cork County,410
+Advanced certificate,Male,23 years,Kerry,123
+Advanced certificate,Male,23 years,Limerick City and County,158
+Advanced certificate,Male,23 years,Tipperary,156
+Advanced certificate,Male,23 years,Waterford City and County,94
+Advanced certificate,Male,23 years,Galway City,45
+Advanced certificate,Male,23 years,Galway County,182
+Advanced certificate,Male,23 years,Leitrim,31
+Advanced certificate,Male,23 years,Mayo,119
+Advanced certificate,Male,23 years,Roscommon,54
+Advanced certificate,Male,23 years,Sligo,67
+Advanced certificate,Male,23 years,Cavan,80
+Advanced certificate,Male,23 years,Donegal,83
+Advanced certificate,Male,23 years,Monaghan,44
+Advanced certificate,Male,24 years,State,2523
+Advanced certificate,Male,24 years,Carlow,39
+Advanced certificate,Male,24 years,Dublin City,197
+Advanced certificate,Male,24 years,Dun Laoghaire-Rathdown,71
+Advanced certificate,Male,24 years,Fingal,113
+Advanced certificate,Male,24 years,South Dublin,119
+Advanced certificate,Male,24 years,Kildare,108
+Advanced certificate,Male,24 years,Kilkenny,77
+Advanced certificate,Male,24 years,Laois,57
+Advanced certificate,Male,24 years,Longford,21
+Advanced certificate,Male,24 years,Louth,74
+Advanced certificate,Male,24 years,Meath,137
+Advanced certificate,Male,24 years,Offaly,48
+Advanced certificate,Male,24 years,Westmeath,51
+Advanced certificate,Male,24 years,Wexford,98
+Advanced certificate,Male,24 years,Wicklow,84
+Advanced certificate,Male,24 years,Clare,67
+Advanced certificate,Male,24 years,Cork City,45
+Advanced certificate,Male,24 years,Cork County,296
+Advanced certificate,Male,24 years,Kerry,86
+Advanced certificate,Male,24 years,Limerick City and County,85
+Advanced certificate,Male,24 years,Tipperary,92
+Advanced certificate,Male,24 years,Waterford City and County,83
+Advanced certificate,Male,24 years,Galway City,32
+Advanced certificate,Male,24 years,Galway County,123
+Advanced certificate,Male,24 years,Leitrim,19
+Advanced certificate,Male,24 years,Mayo,84
+Advanced certificate,Male,24 years,Roscommon,41
+Advanced certificate,Male,24 years,Sligo,29
+Advanced certificate,Male,24 years,Cavan,48
+Advanced certificate,Male,24 years,Donegal,60
+Advanced certificate,Male,24 years,Monaghan,39
+Advanced certificate,Male,25 years and over,State,6207
+Advanced certificate,Male,25 years and over,Carlow,74
+Advanced certificate,Male,25 years and over,Dublin City,635
+Advanced certificate,Male,25 years and over,Dun Laoghaire-Rathdown,226
+Advanced certificate,Male,25 years and over,Fingal,361
+Advanced certificate,Male,25 years and over,South Dublin,356
+Advanced certificate,Male,25 years and over,Kildare,309
+Advanced certificate,Male,25 years and over,Kilkenny,143
+Advanced certificate,Male,25 years and over,Laois,119
+Advanced certificate,Male,25 years and over,Longford,44
+Advanced certificate,Male,25 years and over,Louth,144
+Advanced certificate,Male,25 years and over,Meath,248
+Advanced certificate,Male,25 years and over,Offaly,96
+Advanced certificate,Male,25 years and over,Westmeath,121
+Advanced certificate,Male,25 years and over,Wexford,188
+Advanced certificate,Male,25 years and over,Wicklow,232
+Advanced certificate,Male,25 years and over,Clare,177
+Advanced certificate,Male,25 years and over,Cork City,186
+Advanced certificate,Male,25 years and over,Cork County,624
+Advanced certificate,Male,25 years and over,Kerry,221
+Advanced certificate,Male,25 years and over,Limerick City and County,225
+Advanced certificate,Male,25 years and over,Tipperary,200
+Advanced certificate,Male,25 years and over,Waterford City and County,187
+Advanced certificate,Male,25 years and over,Galway City,98
+Advanced certificate,Male,25 years and over,Galway County,269
+Advanced certificate,Male,25 years and over,Leitrim,36
+Advanced certificate,Male,25 years and over,Mayo,170
+Advanced certificate,Male,25 years and over,Roscommon,100
+Advanced certificate,Male,25 years and over,Sligo,79
+Advanced certificate,Male,25 years and over,Cavan,105
+Advanced certificate,Male,25 years and over,Donegal,167
+Advanced certificate,Male,25 years and over,Monaghan,67
+Advanced certificate,Female,18 years,State,9159
+Advanced certificate,Female,18 years,Carlow,115
+Advanced certificate,Female,18 years,Dublin City,792
+Advanced certificate,Female,18 years,Dun Laoghaire-Rathdown,355
+Advanced certificate,Female,18 years,Fingal,633
+Advanced certificate,Female,18 years,South Dublin,484
+Advanced certificate,Female,18 years,Kildare,472
+Advanced certificate,Female,18 years,Kilkenny,241
+Advanced certificate,Female,18 years,Laois,157
+Advanced certificate,Female,18 years,Longford,76
+Advanced certificate,Female,18 years,Louth,263
+Advanced certificate,Female,18 years,Meath,417
+Advanced certificate,Female,18 years,Offaly,153
+Advanced certificate,Female,18 years,Westmeath,171
+Advanced certificate,Female,18 years,Wexford,354
+Advanced certificate,Female,18 years,Wicklow,301
+Advanced certificate,Female,18 years,Clare,242
+Advanced certificate,Female,18 years,Cork City,169
+Advanced certificate,Female,18 years,Cork County,836
+Advanced certificate,Female,18 years,Kerry,312
+Advanced certificate,Female,18 years,Limerick City and County,367
+Advanced certificate,Female,18 years,Tipperary,370
+Advanced certificate,Female,18 years,Waterford City and County,249
+Advanced certificate,Female,18 years,Galway City,101
+Advanced certificate,Female,18 years,Galway County,368
+Advanced certificate,Female,18 years,Leitrim,80
+Advanced certificate,Female,18 years,Mayo,279
+Advanced certificate,Female,18 years,Roscommon,128
+Advanced certificate,Female,18 years,Sligo,132
+Advanced certificate,Female,18 years,Cavan,161
+Advanced certificate,Female,18 years,Donegal,274
+Advanced certificate,Female,18 years,Monaghan,107
+Advanced certificate,Female,19 years,State,6752
+Advanced certificate,Female,19 years,Carlow,92
+Advanced certificate,Female,19 years,Dublin City,474
+Advanced certificate,Female,19 years,Dun Laoghaire-Rathdown,244
+Advanced certificate,Female,19 years,Fingal,371
+Advanced certificate,Female,19 years,South Dublin,317
+Advanced certificate,Female,19 years,Kildare,351
+Advanced certificate,Female,19 years,Kilkenny,191
+Advanced certificate,Female,19 years,Laois,118
+Advanced certificate,Female,19 years,Longford,54
+Advanced certificate,Female,19 years,Louth,213
+Advanced certificate,Female,19 years,Meath,302
+Advanced certificate,Female,19 years,Offaly,123
+Advanced certificate,Female,19 years,Westmeath,153
+Advanced certificate,Female,19 years,Wexford,273
+Advanced certificate,Female,19 years,Wicklow,194
+Advanced certificate,Female,19 years,Clare,197
+Advanced certificate,Female,19 years,Cork City,134
+Advanced certificate,Female,19 years,Cork County,683
+Advanced certificate,Female,19 years,Kerry,288
+Advanced certificate,Female,19 years,Limerick City and County,303
+Advanced certificate,Female,19 years,Tipperary,291
+Advanced certificate,Female,19 years,Waterford City and County,165
+Advanced certificate,Female,19 years,Galway City,96
+Advanced certificate,Female,19 years,Galway County,234
+Advanced certificate,Female,19 years,Leitrim,53
+Advanced certificate,Female,19 years,Mayo,187
+Advanced certificate,Female,19 years,Roscommon,97
+Advanced certificate,Female,19 years,Sligo,114
+Advanced certificate,Female,19 years,Cavan,146
+Advanced certificate,Female,19 years,Donegal,213
+Advanced certificate,Female,19 years,Monaghan,81
+Advanced certificate,Female,20 years,State,7050
+Advanced certificate,Female,20 years,Carlow,74
+Advanced certificate,Female,20 years,Dublin City,483
+Advanced certificate,Female,20 years,Dun Laoghaire-Rathdown,252
+Advanced certificate,Female,20 years,Fingal,384
+Advanced certificate,Female,20 years,South Dublin,324
+Advanced certificate,Female,20 years,Kildare,331
+Advanced certificate,Female,20 years,Kilkenny,195
+Advanced certificate,Female,20 years,Laois,112
+Advanced certificate,Female,20 years,Longford,66
+Advanced certificate,Female,20 years,Louth,193
+Advanced certificate,Female,20 years,Meath,275
+Advanced certificate,Female,20 years,Offaly,129
+Advanced certificate,Female,20 years,Westmeath,140
+Advanced certificate,Female,20 years,Wexford,272
+Advanced certificate,Female,20 years,Wicklow,227
+Advanced certificate,Female,20 years,Clare,215
+Advanced certificate,Female,20 years,Cork City,133
+Advanced certificate,Female,20 years,Cork County,844
+Advanced certificate,Female,20 years,Kerry,289
+Advanced certificate,Female,20 years,Limerick City and County,285
+Advanced certificate,Female,20 years,Tipperary,263
+Advanced certificate,Female,20 years,Waterford City and County,180
+Advanced certificate,Female,20 years,Galway City,98
+Advanced certificate,Female,20 years,Galway County,294
+Advanced certificate,Female,20 years,Leitrim,59
+Advanced certificate,Female,20 years,Mayo,217
+Advanced certificate,Female,20 years,Roscommon,112
+Advanced certificate,Female,20 years,Sligo,77
+Advanced certificate,Female,20 years,Cavan,165
+Advanced certificate,Female,20 years,Donegal,253
+Advanced certificate,Female,20 years,Monaghan,109
+Advanced certificate,Female,21 years,State,4604
+Advanced certificate,Female,21 years,Carlow,52
+Advanced certificate,Female,21 years,Dublin City,289
+Advanced certificate,Female,21 years,Dun Laoghaire-Rathdown,195
+Advanced certificate,Female,21 years,Fingal,293
+Advanced certificate,Female,21 years,South Dublin,213
+Advanced certificate,Female,21 years,Kildare,185
+Advanced certificate,Female,21 years,Kilkenny,110
+Advanced certificate,Female,21 years,Laois,72
+Advanced certificate,Female,21 years,Longford,40
+Advanced certificate,Female,21 years,Louth,96
+Advanced certificate,Female,21 years,Meath,200
+Advanced certificate,Female,21 years,Offaly,77
+Advanced certificate,Female,21 years,Westmeath,100
+Advanced certificate,Female,21 years,Wexford,177
+Advanced certificate,Female,21 years,Wicklow,143
+Advanced certificate,Female,21 years,Clare,130
+Advanced certificate,Female,21 years,Cork City,97
+Advanced certificate,Female,21 years,Cork County,561
+Advanced certificate,Female,21 years,Kerry,200
+Advanced certificate,Female,21 years,Limerick City and County,186
+Advanced certificate,Female,21 years,Tipperary,166
+Advanced certificate,Female,21 years,Waterford City and County,113
+Advanced certificate,Female,21 years,Galway City,77
+Advanced certificate,Female,21 years,Galway County,184
+Advanced certificate,Female,21 years,Leitrim,38
+Advanced certificate,Female,21 years,Mayo,137
+Advanced certificate,Female,21 years,Roscommon,77
+Advanced certificate,Female,21 years,Sligo,75
+Advanced certificate,Female,21 years,Cavan,83
+Advanced certificate,Female,21 years,Donegal,162
+Advanced certificate,Female,21 years,Monaghan,76
+Advanced certificate,Female,22 years,State,2837
+Advanced certificate,Female,22 years,Carlow,37
+Advanced certificate,Female,22 years,Dublin City,217
+Advanced certificate,Female,22 years,Dun Laoghaire-Rathdown,128
+Advanced certificate,Female,22 years,Fingal,170
+Advanced certificate,Female,22 years,South Dublin,143
+Advanced certificate,Female,22 years,Kildare,113
+Advanced certificate,Female,22 years,Kilkenny,68
+Advanced certificate,Female,22 years,Laois,48
+Advanced certificate,Female,22 years,Longford,30
+Advanced certificate,Female,22 years,Louth,65
+Advanced certificate,Female,22 years,Meath,132
+Advanced certificate,Female,22 years,Offaly,55
+Advanced certificate,Female,22 years,Westmeath,46
+Advanced certificate,Female,22 years,Wexford,105
+Advanced certificate,Female,22 years,Wicklow,66
+Advanced certificate,Female,22 years,Clare,65
+Advanced certificate,Female,22 years,Cork City,70
+Advanced certificate,Female,22 years,Cork County,311
+Advanced certificate,Female,22 years,Kerry,112
+Advanced certificate,Female,22 years,Limerick City and County,128
+Advanced certificate,Female,22 years,Tipperary,110
+Advanced certificate,Female,22 years,Waterford City and County,75
+Advanced certificate,Female,22 years,Galway City,38
+Advanced certificate,Female,22 years,Galway County,112
+Advanced certificate,Female,22 years,Leitrim,19
+Advanced certificate,Female,22 years,Mayo,86
+Advanced certificate,Female,22 years,Roscommon,28
+Advanced certificate,Female,22 years,Sligo,56
+Advanced certificate,Female,22 years,Cavan,67
+Advanced certificate,Female,22 years,Donegal,90
+Advanced certificate,Female,22 years,Monaghan,47
+Advanced certificate,Female,23 years,State,1538
+Advanced certificate,Female,23 years,Carlow,21
+Advanced certificate,Female,23 years,Dublin City,126
+Advanced certificate,Female,23 years,Dun Laoghaire-Rathdown,72
+Advanced certificate,Female,23 years,Fingal,78
+Advanced certificate,Female,23 years,South Dublin,85
+Advanced certificate,Female,23 years,Kildare,73
+Advanced certificate,Female,23 years,Kilkenny,34
+Advanced certificate,Female,23 years,Laois,27
+Advanced certificate,Female,23 years,Longford,16
+Advanced certificate,Female,23 years,Louth,48
+Advanced certificate,Female,23 years,Meath,61
+Advanced certificate,Female,23 years,Offaly,20
+Advanced certificate,Female,23 years,Westmeath,33
+Advanced certificate,Female,23 years,Wexford,56
+Advanced certificate,Female,23 years,Wicklow,39
+Advanced certificate,Female,23 years,Clare,37
+Advanced certificate,Female,23 years,Cork City,48
+Advanced certificate,Female,23 years,Cork County,158
+Advanced certificate,Female,23 years,Kerry,55
+Advanced certificate,Female,23 years,Limerick City and County,60
+Advanced certificate,Female,23 years,Tipperary,49
+Advanced certificate,Female,23 years,Waterford City and County,45
+Advanced certificate,Female,23 years,Galway City,30
+Advanced certificate,Female,23 years,Galway County,61
+Advanced certificate,Female,23 years,Leitrim,8
+Advanced certificate,Female,23 years,Mayo,42
+Advanced certificate,Female,23 years,Roscommon,26
+Advanced certificate,Female,23 years,Sligo,25
+Advanced certificate,Female,23 years,Cavan,33
+Advanced certificate,Female,23 years,Donegal,45
+Advanced certificate,Female,23 years,Monaghan,27
+Advanced certificate,Female,24 years,State,1015
+Advanced certificate,Female,24 years,Carlow,8
+Advanced certificate,Female,24 years,Dublin City,110
+Advanced certificate,Female,24 years,Dun Laoghaire-Rathdown,48
+Advanced certificate,Female,24 years,Fingal,52
+Advanced certificate,Female,24 years,South Dublin,54
+Advanced certificate,Female,24 years,Kildare,50
+Advanced certificate,Female,24 years,Kilkenny,26
+Advanced certificate,Female,24 years,Laois,13
+Advanced certificate,Female,24 years,Longford,2
+Advanced certificate,Female,24 years,Louth,20
+Advanced certificate,Female,24 years,Meath,47
+Advanced certificate,Female,24 years,Offaly,17
+Advanced certificate,Female,24 years,Westmeath,11
+Advanced certificate,Female,24 years,Wexford,41
+Advanced certificate,Female,24 years,Wicklow,33
+Advanced certificate,Female,24 years,Clare,25
+Advanced certificate,Female,24 years,Cork City,28
+Advanced certificate,Female,24 years,Cork County,110
+Advanced certificate,Female,24 years,Kerry,40
+Advanced certificate,Female,24 years,Limerick City and County,35
+Advanced certificate,Female,24 years,Tipperary,35
+Advanced certificate,Female,24 years,Waterford City and County,16
+Advanced certificate,Female,24 years,Galway City,18
+Advanced certificate,Female,24 years,Galway County,45
+Advanced certificate,Female,24 years,Leitrim,8
+Advanced certificate,Female,24 years,Mayo,31
+Advanced certificate,Female,24 years,Roscommon,8
+Advanced certificate,Female,24 years,Sligo,17
+Advanced certificate,Female,24 years,Cavan,19
+Advanced certificate,Female,24 years,Donegal,34
+Advanced certificate,Female,24 years,Monaghan,14
+Advanced certificate,Female,25 years and over,State,5235
+Advanced certificate,Female,25 years and over,Carlow,88
+Advanced certificate,Female,25 years and over,Dublin City,477
+Advanced certificate,Female,25 years and over,Dun Laoghaire-Rathdown,226
+Advanced certificate,Female,25 years and over,Fingal,293
+Advanced certificate,Female,25 years and over,South Dublin,237
+Advanced certificate,Female,25 years and over,Kildare,202
+Advanced certificate,Female,25 years and over,Kilkenny,145
+Advanced certificate,Female,25 years and over,Laois,105
+Advanced certificate,Female,25 years and over,Longford,52
+Advanced certificate,Female,25 years and over,Louth,134
+Advanced certificate,Female,25 years and over,Meath,202
+Advanced certificate,Female,25 years and over,Offaly,75
+Advanced certificate,Female,25 years and over,Westmeath,105
+Advanced certificate,Female,25 years and over,Wexford,186
+Advanced certificate,Female,25 years and over,Wicklow,202
+Advanced certificate,Female,25 years and over,Clare,127
+Advanced certificate,Female,25 years and over,Cork City,128
+Advanced certificate,Female,25 years and over,Cork County,521
+Advanced certificate,Female,25 years and over,Kerry,182
+Advanced certificate,Female,25 years and over,Limerick City and County,203
+Advanced certificate,Female,25 years and over,Tipperary,217
+Advanced certificate,Female,25 years and over,Waterford City and County,153
+Advanced certificate,Female,25 years and over,Galway City,98
+Advanced certificate,Female,25 years and over,Galway County,209
+Advanced certificate,Female,25 years and over,Leitrim,38
+Advanced certificate,Female,25 years and over,Mayo,165
+Advanced certificate,Female,25 years and over,Roscommon,72
+Advanced certificate,Female,25 years and over,Sligo,60
+Advanced certificate,Female,25 years and over,Cavan,95
+Advanced certificate,Female,25 years and over,Donegal,153
+Advanced certificate,Female,25 years and over,Monaghan,85
+Higher certificate,Male,18 years,State,7165
+Higher certificate,Male,18 years,Carlow,79
+Higher certificate,Male,18 years,Dublin City,754
+Higher certificate,Male,18 years,Dun Laoghaire-Rathdown,377
+Higher certificate,Male,18 years,Fingal,606
+Higher certificate,Male,18 years,South Dublin,481
+Higher certificate,Male,18 years,Kildare,408
+Higher certificate,Male,18 years,Kilkenny,153
+Higher certificate,Male,18 years,Laois,99
+Higher certificate,Male,18 years,Longford,48
+Higher certificate,Male,18 years,Louth,154
+Higher certificate,Male,18 years,Meath,349
+Higher certificate,Male,18 years,Offaly,115
+Higher certificate,Male,18 years,Westmeath,135
+Higher certificate,Male,18 years,Wexford,250
+Higher certificate,Male,18 years,Wicklow,254
+Higher certificate,Male,18 years,Clare,181
+Higher certificate,Male,18 years,Cork City,156
+Higher certificate,Male,18 years,Cork County,643
+Higher certificate,Male,18 years,Kerry,184
+Higher certificate,Male,18 years,Limerick City and County,255
+Higher certificate,Male,18 years,Tipperary,205
+Higher certificate,Male,18 years,Waterford City and County,197
+Higher certificate,Male,18 years,Galway City,103
+Higher certificate,Male,18 years,Galway County,219
+Higher certificate,Male,18 years,Leitrim,56
+Higher certificate,Male,18 years,Mayo,160
+Higher certificate,Male,18 years,Roscommon,99
+Higher certificate,Male,18 years,Sligo,94
+Higher certificate,Male,18 years,Cavan,86
+Higher certificate,Male,18 years,Donegal,208
+Higher certificate,Male,18 years,Monaghan,57
+Higher certificate,Male,19 years,State,4499
+Higher certificate,Male,19 years,Carlow,68
+Higher certificate,Male,19 years,Dublin City,400
+Higher certificate,Male,19 years,Dun Laoghaire-Rathdown,172
+Higher certificate,Male,19 years,Fingal,300
+Higher certificate,Male,19 years,South Dublin,254
+Higher certificate,Male,19 years,Kildare,219
+Higher certificate,Male,19 years,Kilkenny,121
+Higher certificate,Male,19 years,Laois,77
+Higher certificate,Male,19 years,Longford,47
+Higher certificate,Male,19 years,Louth,155
+Higher certificate,Male,19 years,Meath,209
+Higher certificate,Male,19 years,Offaly,49
+Higher certificate,Male,19 years,Westmeath,93
+Higher certificate,Male,19 years,Wexford,170
+Higher certificate,Male,19 years,Wicklow,156
+Higher certificate,Male,19 years,Clare,107
+Higher certificate,Male,19 years,Cork City,76
+Higher certificate,Male,19 years,Cork County,426
+Higher certificate,Male,19 years,Kerry,142
+Higher certificate,Male,19 years,Limerick City and County,157
+Higher certificate,Male,19 years,Tipperary,148
+Higher certificate,Male,19 years,Waterford City and County,107
+Higher certificate,Male,19 years,Galway City,85
+Higher certificate,Male,19 years,Galway County,189
+Higher certificate,Male,19 years,Leitrim,37
+Higher certificate,Male,19 years,Mayo,109
+Higher certificate,Male,19 years,Roscommon,61
+Higher certificate,Male,19 years,Sligo,78
+Higher certificate,Male,19 years,Cavan,86
+Higher certificate,Male,19 years,Donegal,151
+Higher certificate,Male,19 years,Monaghan,50
+Higher certificate,Male,20 years,State,7601
+Higher certificate,Male,20 years,Carlow,103
+Higher certificate,Male,20 years,Dublin City,613
+Higher certificate,Male,20 years,Dun Laoghaire-Rathdown,307
+Higher certificate,Male,20 years,Fingal,493
+Higher certificate,Male,20 years,South Dublin,365
+Higher certificate,Male,20 years,Kildare,391
+Higher certificate,Male,20 years,Kilkenny,173
+Higher certificate,Male,20 years,Laois,126
+Higher certificate,Male,20 years,Longford,74
+Higher certificate,Male,20 years,Louth,208
+Higher certificate,Male,20 years,Meath,318
+Higher certificate,Male,20 years,Offaly,124
+Higher certificate,Male,20 years,Westmeath,166
+Higher certificate,Male,20 years,Wexford,294
+Higher certificate,Male,20 years,Wicklow,253
+Higher certificate,Male,20 years,Clare,215
+Higher certificate,Male,20 years,Cork City,179
+Higher certificate,Male,20 years,Cork County,771
+Higher certificate,Male,20 years,Kerry,252
+Higher certificate,Male,20 years,Limerick City and County,322
+Higher certificate,Male,20 years,Tipperary,290
+Higher certificate,Male,20 years,Waterford City and County,173
+Higher certificate,Male,20 years,Galway City,94
+Higher certificate,Male,20 years,Galway County,323
+Higher certificate,Male,20 years,Leitrim,62
+Higher certificate,Male,20 years,Mayo,216
+Higher certificate,Male,20 years,Roscommon,133
+Higher certificate,Male,20 years,Sligo,99
+Higher certificate,Male,20 years,Cavan,120
+Higher certificate,Male,20 years,Donegal,239
+Higher certificate,Male,20 years,Monaghan,105
+Higher certificate,Male,21 years,State,7365
+Higher certificate,Male,21 years,Carlow,93
+Higher certificate,Male,21 years,Dublin City,671
+Higher certificate,Male,21 years,Dun Laoghaire-Rathdown,299
+Higher certificate,Male,21 years,Fingal,438
+Higher certificate,Male,21 years,South Dublin,366
+Higher certificate,Male,21 years,Kildare,389
+Higher certificate,Male,21 years,Kilkenny,155
+Higher certificate,Male,21 years,Laois,123
+Higher certificate,Male,21 years,Longford,47
+Higher certificate,Male,21 years,Louth,209
+Higher certificate,Male,21 years,Meath,335
+Higher certificate,Male,21 years,Offaly,105
+Higher certificate,Male,21 years,Westmeath,131
+Higher certificate,Male,21 years,Wexford,202
+Higher certificate,Male,21 years,Wicklow,265
+Higher certificate,Male,21 years,Clare,224
+Higher certificate,Male,21 years,Cork City,169
+Higher certificate,Male,21 years,Cork County,764
+Higher certificate,Male,21 years,Kerry,276
+Higher certificate,Male,21 years,Limerick City and County,327
+Higher certificate,Male,21 years,Tipperary,252
+Higher certificate,Male,21 years,Waterford City and County,175
+Higher certificate,Male,21 years,Galway City,121
+Higher certificate,Male,21 years,Galway County,289
+Higher certificate,Male,21 years,Leitrim,66
+Higher certificate,Male,21 years,Mayo,215
+Higher certificate,Male,21 years,Roscommon,109
+Higher certificate,Male,21 years,Sligo,109
+Higher certificate,Male,21 years,Cavan,128
+Higher certificate,Male,21 years,Donegal,227
+Higher certificate,Male,21 years,Monaghan,86
+Higher certificate,Male,22 years,State,4913
+Higher certificate,Male,22 years,Carlow,59
+Higher certificate,Male,22 years,Dublin City,499
+Higher certificate,Male,22 years,Dun Laoghaire-Rathdown,236
+Higher certificate,Male,22 years,Fingal,361
+Higher certificate,Male,22 years,South Dublin,247
+Higher certificate,Male,22 years,Kildare,227
+Higher certificate,Male,22 years,Kilkenny,94
+Higher certificate,Male,22 years,Laois,75
+Higher certificate,Male,22 years,Longford,32
+Higher certificate,Male,22 years,Louth,110
+Higher certificate,Male,22 years,Meath,210
+Higher certificate,Male,22 years,Offaly,69
+Higher certificate,Male,22 years,Westmeath,80
+Higher certificate,Male,22 years,Wexford,152
+Higher certificate,Male,22 years,Wicklow,180
+Higher certificate,Male,22 years,Clare,139
+Higher certificate,Male,22 years,Cork City,126
+Higher certificate,Male,22 years,Cork County,562
+Higher certificate,Male,22 years,Kerry,147
+Higher certificate,Male,22 years,Limerick City and County,193
+Higher certificate,Male,22 years,Tipperary,159
+Higher certificate,Male,22 years,Waterford City and County,82
+Higher certificate,Male,22 years,Galway City,99
+Higher certificate,Male,22 years,Galway County,195
+Higher certificate,Male,22 years,Leitrim,36
+Higher certificate,Male,22 years,Mayo,150
+Higher certificate,Male,22 years,Roscommon,72
+Higher certificate,Male,22 years,Sligo,74
+Higher certificate,Male,22 years,Cavan,71
+Higher certificate,Male,22 years,Donegal,126
+Higher certificate,Male,22 years,Monaghan,51
+Higher certificate,Male,23 years,State,2568
+Higher certificate,Male,23 years,Carlow,32
+Higher certificate,Male,23 years,Dublin City,302
+Higher certificate,Male,23 years,Dun Laoghaire-Rathdown,121
+Higher certificate,Male,23 years,Fingal,190
+Higher certificate,Male,23 years,South Dublin,130
+Higher certificate,Male,23 years,Kildare,125
+Higher certificate,Male,23 years,Kilkenny,57
+Higher certificate,Male,23 years,Laois,36
+Higher certificate,Male,23 years,Longford,20
+Higher certificate,Male,23 years,Louth,58
+Higher certificate,Male,23 years,Meath,111
+Higher certificate,Male,23 years,Offaly,24
+Higher certificate,Male,23 years,Westmeath,51
+Higher certificate,Male,23 years,Wexford,84
+Higher certificate,Male,23 years,Wicklow,82
+Higher certificate,Male,23 years,Clare,55
+Higher certificate,Male,23 years,Cork City,88
+Higher certificate,Male,23 years,Cork County,264
+Higher certificate,Male,23 years,Kerry,102
+Higher certificate,Male,23 years,Limerick City and County,111
+Higher certificate,Male,23 years,Tipperary,69
+Higher certificate,Male,23 years,Waterford City and County,51
+Higher certificate,Male,23 years,Galway City,57
+Higher certificate,Male,23 years,Galway County,86
+Higher certificate,Male,23 years,Leitrim,9
+Higher certificate,Male,23 years,Mayo,69
+Higher certificate,Male,23 years,Roscommon,30
+Higher certificate,Male,23 years,Sligo,36
+Higher certificate,Male,23 years,Cavan,40
+Higher certificate,Male,23 years,Donegal,52
+Higher certificate,Male,23 years,Monaghan,26
+Higher certificate,Male,24 years,State,2011
+Higher certificate,Male,24 years,Carlow,19
+Higher certificate,Male,24 years,Dublin City,258
+Higher certificate,Male,24 years,Dun Laoghaire-Rathdown,112
+Higher certificate,Male,24 years,Fingal,133
+Higher certificate,Male,24 years,South Dublin,93
+Higher certificate,Male,24 years,Kildare,111
+Higher certificate,Male,24 years,Kilkenny,46
+Higher certificate,Male,24 years,Laois,37
+Higher certificate,Male,24 years,Longford,10
+Higher certificate,Male,24 years,Louth,38
+Higher certificate,Male,24 years,Meath,63
+Higher certificate,Male,24 years,Offaly,29
+Higher certificate,Male,24 years,Westmeath,43
+Higher certificate,Male,24 years,Wexford,55
+Higher certificate,Male,24 years,Wicklow,77
+Higher certificate,Male,24 years,Clare,49
+Higher certificate,Male,24 years,Cork City,65
+Higher certificate,Male,24 years,Cork County,190
+Higher certificate,Male,24 years,Kerry,67
+Higher certificate,Male,24 years,Limerick City and County,89
+Higher certificate,Male,24 years,Tipperary,45
+Higher certificate,Male,24 years,Waterford City and County,47
+Higher certificate,Male,24 years,Galway City,39
+Higher certificate,Male,24 years,Galway County,61
+Higher certificate,Male,24 years,Leitrim,16
+Higher certificate,Male,24 years,Mayo,47
+Higher certificate,Male,24 years,Roscommon,38
+Higher certificate,Male,24 years,Sligo,34
+Higher certificate,Male,24 years,Cavan,30
+Higher certificate,Male,24 years,Donegal,58
+Higher certificate,Male,24 years,Monaghan,12
+Higher certificate,Male,25 years and over,State,7231
+Higher certificate,Male,25 years and over,Carlow,71
+Higher certificate,Male,25 years and over,Dublin City,899
+Higher certificate,Male,25 years and over,Dun Laoghaire-Rathdown,317
+Higher certificate,Male,25 years and over,Fingal,531
+Higher certificate,Male,25 years and over,South Dublin,458
+Higher certificate,Male,25 years and over,Kildare,354
+Higher certificate,Male,25 years and over,Kilkenny,141
+Higher certificate,Male,25 years and over,Laois,106
+Higher certificate,Male,25 years and over,Longford,50
+Higher certificate,Male,25 years and over,Louth,191
+Higher certificate,Male,25 years and over,Meath,265
+Higher certificate,Male,25 years and over,Offaly,88
+Higher certificate,Male,25 years and over,Westmeath,124
+Higher certificate,Male,25 years and over,Wexford,212
+Higher certificate,Male,25 years and over,Wicklow,248
+Higher certificate,Male,25 years and over,Clare,171
+Higher certificate,Male,25 years and over,Cork City,208
+Higher certificate,Male,25 years and over,Cork County,679
+Higher certificate,Male,25 years and over,Kerry,239
+Higher certificate,Male,25 years and over,Limerick City and County,282
+Higher certificate,Male,25 years and over,Tipperary,192
+Higher certificate,Male,25 years and over,Waterford City and County,182
+Higher certificate,Male,25 years and over,Galway City,156
+Higher certificate,Male,25 years and over,Galway County,252
+Higher certificate,Male,25 years and over,Leitrim,50
+Higher certificate,Male,25 years and over,Mayo,180
+Higher certificate,Male,25 years and over,Roscommon,92
+Higher certificate,Male,25 years and over,Sligo,116
+Higher certificate,Male,25 years and over,Cavan,91
+Higher certificate,Male,25 years and over,Donegal,224
+Higher certificate,Male,25 years and over,Monaghan,62
+Higher certificate,Female,18 years,State,10167
+Higher certificate,Female,18 years,Carlow,142
+Higher certificate,Female,18 years,Dublin City,913
+Higher certificate,Female,18 years,Dun Laoghaire-Rathdown,463
+Higher certificate,Female,18 years,Fingal,724
+Higher certificate,Female,18 years,South Dublin,591
+Higher certificate,Female,18 years,Kildare,548
+Higher certificate,Female,18 years,Kilkenny,225
+Higher certificate,Female,18 years,Laois,176
+Higher certificate,Female,18 years,Longford,84
+Higher certificate,Female,18 years,Louth,278
+Higher certificate,Female,18 years,Meath,479
+Higher certificate,Female,18 years,Offaly,170
+Higher certificate,Female,18 years,Westmeath,182
+Higher certificate,Female,18 years,Wexford,355
+Higher certificate,Female,18 years,Wicklow,373
+Higher certificate,Female,18 years,Clare,288
+Higher certificate,Female,18 years,Cork City,185
+Higher certificate,Female,18 years,Cork County,843
+Higher certificate,Female,18 years,Kerry,325
+Higher certificate,Female,18 years,Limerick City and County,418
+Higher certificate,Female,18 years,Tipperary,362
+Higher certificate,Female,18 years,Waterford City and County,282
+Higher certificate,Female,18 years,Galway City,125
+Higher certificate,Female,18 years,Galway County,373
+Higher certificate,Female,18 years,Leitrim,74
+Higher certificate,Female,18 years,Mayo,299
+Higher certificate,Female,18 years,Roscommon,135
+Higher certificate,Female,18 years,Sligo,141
+Higher certificate,Female,18 years,Cavan,160
+Higher certificate,Female,18 years,Donegal,325
+Higher certificate,Female,18 years,Monaghan,129
+Higher certificate,Female,19 years,State,7593
+Higher certificate,Female,19 years,Carlow,113
+Higher certificate,Female,19 years,Dublin City,586
+Higher certificate,Female,19 years,Dun Laoghaire-Rathdown,289
+Higher certificate,Female,19 years,Fingal,504
+Higher certificate,Female,19 years,South Dublin,365
+Higher certificate,Female,19 years,Kildare,404
+Higher certificate,Female,19 years,Kilkenny,171
+Higher certificate,Female,19 years,Laois,143
+Higher certificate,Female,19 years,Longford,64
+Higher certificate,Female,19 years,Louth,220
+Higher certificate,Female,19 years,Meath,344
+Higher certificate,Female,19 years,Offaly,126
+Higher certificate,Female,19 years,Westmeath,142
+Higher certificate,Female,19 years,Wexford,254
+Higher certificate,Female,19 years,Wicklow,270
+Higher certificate,Female,19 years,Clare,224
+Higher certificate,Female,19 years,Cork City,150
+Higher certificate,Female,19 years,Cork County,709
+Higher certificate,Female,19 years,Kerry,283
+Higher certificate,Female,19 years,Limerick City and County,331
+Higher certificate,Female,19 years,Tipperary,247
+Higher certificate,Female,19 years,Waterford City and County,185
+Higher certificate,Female,19 years,Galway City,97
+Higher certificate,Female,19 years,Galway County,299
+Higher certificate,Female,19 years,Leitrim,62
+Higher certificate,Female,19 years,Mayo,219
+Higher certificate,Female,19 years,Roscommon,131
+Higher certificate,Female,19 years,Sligo,124
+Higher certificate,Female,19 years,Cavan,145
+Higher certificate,Female,19 years,Donegal,295
+Higher certificate,Female,19 years,Monaghan,97
+Higher certificate,Female,20 years,State,9917
+Higher certificate,Female,20 years,Carlow,140
+Higher certificate,Female,20 years,Dublin City,774
+Higher certificate,Female,20 years,Dun Laoghaire-Rathdown,382
+Higher certificate,Female,20 years,Fingal,579
+Higher certificate,Female,20 years,South Dublin,480
+Higher certificate,Female,20 years,Kildare,491
+Higher certificate,Female,20 years,Kilkenny,245
+Higher certificate,Female,20 years,Laois,185
+Higher certificate,Female,20 years,Longford,108
+Higher certificate,Female,20 years,Louth,294
+Higher certificate,Female,20 years,Meath,447
+Higher certificate,Female,20 years,Offaly,170
+Higher certificate,Female,20 years,Westmeath,190
+Higher certificate,Female,20 years,Wexford,351
+Higher certificate,Female,20 years,Wicklow,318
+Higher certificate,Female,20 years,Clare,263
+Higher certificate,Female,20 years,Cork City,165
+Higher certificate,Female,20 years,Cork County,1010
+Higher certificate,Female,20 years,Kerry,416
+Higher certificate,Female,20 years,Limerick City and County,383
+Higher certificate,Female,20 years,Tipperary,324
+Higher certificate,Female,20 years,Waterford City and County,216
+Higher certificate,Female,20 years,Galway City,143
+Higher certificate,Female,20 years,Galway County,437
+Higher certificate,Female,20 years,Leitrim,85
+Higher certificate,Female,20 years,Mayo,273
+Higher certificate,Female,20 years,Roscommon,144
+Higher certificate,Female,20 years,Sligo,181
+Higher certificate,Female,20 years,Cavan,204
+Higher certificate,Female,20 years,Donegal,358
+Higher certificate,Female,20 years,Monaghan,161
+Higher certificate,Female,21 years,State,8763
+Higher certificate,Female,21 years,Carlow,125
+Higher certificate,Female,21 years,Dublin City,610
+Higher certificate,Female,21 years,Dun Laoghaire-Rathdown,403
+Higher certificate,Female,21 years,Fingal,490
+Higher certificate,Female,21 years,South Dublin,421
+Higher certificate,Female,21 years,Kildare,398
+Higher certificate,Female,21 years,Kilkenny,202
+Higher certificate,Female,21 years,Laois,144
+Higher certificate,Female,21 years,Longford,77
+Higher certificate,Female,21 years,Louth,222
+Higher certificate,Female,21 years,Meath,377
+Higher certificate,Female,21 years,Offaly,144
+Higher certificate,Female,21 years,Westmeath,185
+Higher certificate,Female,21 years,Wexford,292
+Higher certificate,Female,21 years,Wicklow,322
+Higher certificate,Female,21 years,Clare,245
+Higher certificate,Female,21 years,Cork City,148
+Higher certificate,Female,21 years,Cork County,920
+Higher certificate,Female,21 years,Kerry,358
+Higher certificate,Female,21 years,Limerick City and County,368
+Higher certificate,Female,21 years,Tipperary,317
+Higher certificate,Female,21 years,Waterford City and County,219
+Higher certificate,Female,21 years,Galway City,140
+Higher certificate,Female,21 years,Galway County,416
+Higher certificate,Female,21 years,Leitrim,79
+Higher certificate,Female,21 years,Mayo,279
+Higher certificate,Female,21 years,Roscommon,120
+Higher certificate,Female,21 years,Sligo,153
+Higher certificate,Female,21 years,Cavan,173
+Higher certificate,Female,21 years,Donegal,294
+Higher certificate,Female,21 years,Monaghan,122
+Higher certificate,Female,22 years,State,5523
+Higher certificate,Female,22 years,Carlow,83
+Higher certificate,Female,22 years,Dublin City,449
+Higher certificate,Female,22 years,Dun Laoghaire-Rathdown,275
+Higher certificate,Female,22 years,Fingal,339
+Higher certificate,Female,22 years,South Dublin,279
+Higher certificate,Female,22 years,Kildare,252
+Higher certificate,Female,22 years,Kilkenny,139
+Higher certificate,Female,22 years,Laois,110
+Higher certificate,Female,22 years,Longford,42
+Higher certificate,Female,22 years,Louth,128
+Higher certificate,Female,22 years,Meath,236
+Higher certificate,Female,22 years,Offaly,85
+Higher certificate,Female,22 years,Westmeath,95
+Higher certificate,Female,22 years,Wexford,171
+Higher certificate,Female,22 years,Wicklow,182
+Higher certificate,Female,22 years,Clare,155
+Higher certificate,Female,22 years,Cork City,117
+Higher certificate,Female,22 years,Cork County,596
+Higher certificate,Female,22 years,Kerry,218
+Higher certificate,Female,22 years,Limerick City and County,237
+Higher certificate,Female,22 years,Tipperary,173
+Higher certificate,Female,22 years,Waterford City and County,120
+Higher certificate,Female,22 years,Galway City,78
+Higher certificate,Female,22 years,Galway County,212
+Higher certificate,Female,22 years,Leitrim,32
+Higher certificate,Female,22 years,Mayo,184
+Higher certificate,Female,22 years,Roscommon,101
+Higher certificate,Female,22 years,Sligo,86
+Higher certificate,Female,22 years,Cavan,105
+Higher certificate,Female,22 years,Donegal,153
+Higher certificate,Female,22 years,Monaghan,91
+Higher certificate,Female,23 years,State,3236
+Higher certificate,Female,23 years,Carlow,45
+Higher certificate,Female,23 years,Dublin City,275
+Higher certificate,Female,23 years,Dun Laoghaire-Rathdown,179
+Higher certificate,Female,23 years,Fingal,213
+Higher certificate,Female,23 years,South Dublin,150
+Higher certificate,Female,23 years,Kildare,157
+Higher certificate,Female,23 years,Kilkenny,70
+Higher certificate,Female,23 years,Laois,51
+Higher certificate,Female,23 years,Longford,30
+Higher certificate,Female,23 years,Louth,88
+Higher certificate,Female,23 years,Meath,131
+Higher certificate,Female,23 years,Offaly,42
+Higher certificate,Female,23 years,Westmeath,63
+Higher certificate,Female,23 years,Wexford,110
+Higher certificate,Female,23 years,Wicklow,113
+Higher certificate,Female,23 years,Clare,73
+Higher certificate,Female,23 years,Cork City,96
+Higher certificate,Female,23 years,Cork County,330
+Higher certificate,Female,23 years,Kerry,123
+Higher certificate,Female,23 years,Limerick City and County,121
+Higher certificate,Female,23 years,Tipperary,110
+Higher certificate,Female,23 years,Waterford City and County,81
+Higher certificate,Female,23 years,Galway City,57
+Higher certificate,Female,23 years,Galway County,118
+Higher certificate,Female,23 years,Leitrim,20
+Higher certificate,Female,23 years,Mayo,111
+Higher certificate,Female,23 years,Roscommon,44
+Higher certificate,Female,23 years,Sligo,52
+Higher certificate,Female,23 years,Cavan,59
+Higher certificate,Female,23 years,Donegal,85
+Higher certificate,Female,23 years,Monaghan,39
+Higher certificate,Female,24 years,State,2159
+Higher certificate,Female,24 years,Carlow,20
+Higher certificate,Female,24 years,Dublin City,211
+Higher certificate,Female,24 years,Dun Laoghaire-Rathdown,96
+Higher certificate,Female,24 years,Fingal,128
+Higher certificate,Female,24 years,South Dublin,129
+Higher certificate,Female,24 years,Kildare,103
+Higher certificate,Female,24 years,Kilkenny,55
+Higher certificate,Female,24 years,Laois,43
+Higher certificate,Female,24 years,Longford,13
+Higher certificate,Female,24 years,Louth,52
+Higher certificate,Female,24 years,Meath,74
+Higher certificate,Female,24 years,Offaly,32
+Higher certificate,Female,24 years,Westmeath,45
+Higher certificate,Female,24 years,Wexford,79
+Higher certificate,Female,24 years,Wicklow,70
+Higher certificate,Female,24 years,Clare,46
+Higher certificate,Female,24 years,Cork City,56
+Higher certificate,Female,24 years,Cork County,233
+Higher certificate,Female,24 years,Kerry,75
+Higher certificate,Female,24 years,Limerick City and County,74
+Higher certificate,Female,24 years,Tipperary,77
+Higher certificate,Female,24 years,Waterford City and County,42
+Higher certificate,Female,24 years,Galway City,39
+Higher certificate,Female,24 years,Galway County,82
+Higher certificate,Female,24 years,Leitrim,24
+Higher certificate,Female,24 years,Mayo,65
+Higher certificate,Female,24 years,Roscommon,29
+Higher certificate,Female,24 years,Sligo,31
+Higher certificate,Female,24 years,Cavan,41
+Higher certificate,Female,24 years,Donegal,62
+Higher certificate,Female,24 years,Monaghan,33
+Higher certificate,Female,25 years and over,State,9403
+Higher certificate,Female,25 years and over,Carlow,160
+Higher certificate,Female,25 years and over,Dublin City,920
+Higher certificate,Female,25 years and over,Dun Laoghaire-Rathdown,446
+Higher certificate,Female,25 years and over,Fingal,575
+Higher certificate,Female,25 years and over,South Dublin,450
+Higher certificate,Female,25 years and over,Kildare,443
+Higher certificate,Female,25 years and over,Kilkenny,210
+Higher certificate,Female,25 years and over,Laois,159
+Higher certificate,Female,25 years and over,Longford,80
+Higher certificate,Female,25 years and over,Louth,263
+Higher certificate,Female,25 years and over,Meath,383
+Higher certificate,Female,25 years and over,Offaly,137
+Higher certificate,Female,25 years and over,Westmeath,176
+Higher certificate,Female,25 years and over,Wexford,312
+Higher certificate,Female,25 years and over,Wicklow,337
+Higher certificate,Female,25 years and over,Clare,226
+Higher certificate,Female,25 years and over,Cork City,258
+Higher certificate,Female,25 years and over,Cork County,832
+Higher certificate,Female,25 years and over,Kerry,319
+Higher certificate,Female,25 years and over,Limerick City and County,374
+Higher certificate,Female,25 years and over,Tipperary,359
+Higher certificate,Female,25 years and over,Waterford City and County,255
+Higher certificate,Female,25 years and over,Galway City,185
+Higher certificate,Female,25 years and over,Galway County,349
+Higher certificate,Female,25 years and over,Leitrim,78
+Higher certificate,Female,25 years and over,Mayo,234
+Higher certificate,Female,25 years and over,Roscommon,132
+Higher certificate,Female,25 years and over,Sligo,125
+Higher certificate,Female,25 years and over,Cavan,165
+Higher certificate,Female,25 years and over,Donegal,331
+Higher certificate,Female,25 years and over,Monaghan,130
+Ordinary degree,Male,18 years,State,6139
+Ordinary degree,Male,18 years,Carlow,54
+Ordinary degree,Male,18 years,Dublin City,752
+Ordinary degree,Male,18 years,Dun Laoghaire-Rathdown,449
+Ordinary degree,Male,18 years,Fingal,629
+Ordinary degree,Male,18 years,South Dublin,438
+Ordinary degree,Male,18 years,Kildare,385
+Ordinary degree,Male,18 years,Kilkenny,128
+Ordinary degree,Male,18 years,Laois,74
+Ordinary degree,Male,18 years,Longford,40
+Ordinary degree,Male,18 years,Louth,133
+Ordinary degree,Male,18 years,Meath,286
+Ordinary degree,Male,18 years,Offaly,72
+Ordinary degree,Male,18 years,Westmeath,72
+Ordinary degree,Male,18 years,Wexford,156
+Ordinary degree,Male,18 years,Wicklow,232
+Ordinary degree,Male,18 years,Clare,146
+Ordinary degree,Male,18 years,Cork City,123
+Ordinary degree,Male,18 years,Cork County,558
+Ordinary degree,Male,18 years,Kerry,120
+Ordinary degree,Male,18 years,Limerick City and County,230
+Ordinary degree,Male,18 years,Tipperary,174
+Ordinary degree,Male,18 years,Waterford City and County,151
+Ordinary degree,Male,18 years,Galway City,69
+Ordinary degree,Male,18 years,Galway County,170
+Ordinary degree,Male,18 years,Leitrim,26
+Ordinary degree,Male,18 years,Mayo,114
+Ordinary degree,Male,18 years,Roscommon,57
+Ordinary degree,Male,18 years,Sligo,76
+Ordinary degree,Male,18 years,Cavan,60
+Ordinary degree,Male,18 years,Donegal,118
+Ordinary degree,Male,18 years,Monaghan,47
+Ordinary degree,Male,19 years,State,3090
+Ordinary degree,Male,19 years,Carlow,39
+Ordinary degree,Male,19 years,Dublin City,353
+Ordinary degree,Male,19 years,Dun Laoghaire-Rathdown,181
+Ordinary degree,Male,19 years,Fingal,243
+Ordinary degree,Male,19 years,South Dublin,189
+Ordinary degree,Male,19 years,Kildare,168
+Ordinary degree,Male,19 years,Kilkenny,56
+Ordinary degree,Male,19 years,Laois,51
+Ordinary degree,Male,19 years,Longford,15
+Ordinary degree,Male,19 years,Louth,82
+Ordinary degree,Male,19 years,Meath,153
+Ordinary degree,Male,19 years,Offaly,45
+Ordinary degree,Male,19 years,Westmeath,66
+Ordinary degree,Male,19 years,Wexford,101
+Ordinary degree,Male,19 years,Wicklow,97
+Ordinary degree,Male,19 years,Clare,70
+Ordinary degree,Male,19 years,Cork City,90
+Ordinary degree,Male,19 years,Cork County,275
+Ordinary degree,Male,19 years,Kerry,90
+Ordinary degree,Male,19 years,Limerick City and County,117
+Ordinary degree,Male,19 years,Tipperary,70
+Ordinary degree,Male,19 years,Waterford City and County,45
+Ordinary degree,Male,19 years,Galway City,53
+Ordinary degree,Male,19 years,Galway County,119
+Ordinary degree,Male,19 years,Leitrim,10
+Ordinary degree,Male,19 years,Mayo,84
+Ordinary degree,Male,19 years,Roscommon,36
+Ordinary degree,Male,19 years,Sligo,35
+Ordinary degree,Male,19 years,Cavan,38
+Ordinary degree,Male,19 years,Donegal,79
+Ordinary degree,Male,19 years,Monaghan,40
+Ordinary degree,Male,20 years,State,7070
+Ordinary degree,Male,20 years,Carlow,74
+Ordinary degree,Male,20 years,Dublin City,610
+Ordinary degree,Male,20 years,Dun Laoghaire-Rathdown,369
+Ordinary degree,Male,20 years,Fingal,501
+Ordinary degree,Male,20 years,South Dublin,400
+Ordinary degree,Male,20 years,Kildare,409
+Ordinary degree,Male,20 years,Kilkenny,145
+Ordinary degree,Male,20 years,Laois,124
+Ordinary degree,Male,20 years,Longford,54
+Ordinary degree,Male,20 years,Louth,237
+Ordinary degree,Male,20 years,Meath,322
+Ordinary degree,Male,20 years,Offaly,104
+Ordinary degree,Male,20 years,Westmeath,121
+Ordinary degree,Male,20 years,Wexford,198
+Ordinary degree,Male,20 years,Wicklow,228
+Ordinary degree,Male,20 years,Clare,194
+Ordinary degree,Male,20 years,Cork City,156
+Ordinary degree,Male,20 years,Cork County,735
+Ordinary degree,Male,20 years,Kerry,218
+Ordinary degree,Male,20 years,Limerick City and County,280
+Ordinary degree,Male,20 years,Tipperary,209
+Ordinary degree,Male,20 years,Waterford City and County,170
+Ordinary degree,Male,20 years,Galway City,106
+Ordinary degree,Male,20 years,Galway County,294
+Ordinary degree,Male,20 years,Leitrim,47
+Ordinary degree,Male,20 years,Mayo,165
+Ordinary degree,Male,20 years,Roscommon,108
+Ordinary degree,Male,20 years,Sligo,99
+Ordinary degree,Male,20 years,Cavan,121
+Ordinary degree,Male,20 years,Donegal,180
+Ordinary degree,Male,20 years,Monaghan,92
+Ordinary degree,Male,21 years,State,14892
+Ordinary degree,Male,21 years,Carlow,144
+Ordinary degree,Male,21 years,Dublin City,1452
+Ordinary degree,Male,21 years,Dun Laoghaire-Rathdown,854
+Ordinary degree,Male,21 years,Fingal,970
+Ordinary degree,Male,21 years,South Dublin,744
+Ordinary degree,Male,21 years,Kildare,756
+Ordinary degree,Male,21 years,Kilkenny,320
+Ordinary degree,Male,21 years,Laois,217
+Ordinary degree,Male,21 years,Longford,109
+Ordinary degree,Male,21 years,Louth,421
+Ordinary degree,Male,21 years,Meath,682
+Ordinary degree,Male,21 years,Offaly,196
+Ordinary degree,Male,21 years,Westmeath,268
+Ordinary degree,Male,21 years,Wexford,409
+Ordinary degree,Male,21 years,Wicklow,480
+Ordinary degree,Male,21 years,Clare,404
+Ordinary degree,Male,21 years,Cork City,318
+Ordinary degree,Male,21 years,Cork County,1576
+Ordinary degree,Male,21 years,Kerry,540
+Ordinary degree,Male,21 years,Limerick City and County,595
+Ordinary degree,Male,21 years,Tipperary,468
+Ordinary degree,Male,21 years,Waterford City and County,343
+Ordinary degree,Male,21 years,Galway City,252
+Ordinary degree,Male,21 years,Galway County,637
+Ordinary degree,Male,21 years,Leitrim,108
+Ordinary degree,Male,21 years,Mayo,418
+Ordinary degree,Male,21 years,Roscommon,205
+Ordinary degree,Male,21 years,Sligo,222
+Ordinary degree,Male,21 years,Cavan,229
+Ordinary degree,Male,21 years,Donegal,384
+Ordinary degree,Male,21 years,Monaghan,171
+Ordinary degree,Male,22 years,State,13702
+Ordinary degree,Male,22 years,Carlow,136
+Ordinary degree,Male,22 years,Dublin City,1596
+Ordinary degree,Male,22 years,Dun Laoghaire-Rathdown,845
+Ordinary degree,Male,22 years,Fingal,912
+Ordinary degree,Male,22 years,South Dublin,650
+Ordinary degree,Male,22 years,Kildare,677
+Ordinary degree,Male,22 years,Kilkenny,273
+Ordinary degree,Male,22 years,Laois,172
+Ordinary degree,Male,22 years,Longford,98
+Ordinary degree,Male,22 years,Louth,309
+Ordinary degree,Male,22 years,Meath,544
+Ordinary degree,Male,22 years,Offaly,146
+Ordinary degree,Male,22 years,Westmeath,237
+Ordinary degree,Male,22 years,Wexford,373
+Ordinary degree,Male,22 years,Wicklow,485
+Ordinary degree,Male,22 years,Clare,406
+Ordinary degree,Male,22 years,Cork City,346
+Ordinary degree,Male,22 years,Cork County,1439
+Ordinary degree,Male,22 years,Kerry,496
+Ordinary degree,Male,22 years,Limerick City and County,613
+Ordinary degree,Male,22 years,Tipperary,405
+Ordinary degree,Male,22 years,Waterford City and County,293
+Ordinary degree,Male,22 years,Galway City,268
+Ordinary degree,Male,22 years,Galway County,527
+Ordinary degree,Male,22 years,Leitrim,91
+Ordinary degree,Male,22 years,Mayo,370
+Ordinary degree,Male,22 years,Roscommon,176
+Ordinary degree,Male,22 years,Sligo,165
+Ordinary degree,Male,22 years,Cavan,172
+Ordinary degree,Male,22 years,Donegal,346
+Ordinary degree,Male,22 years,Monaghan,136
+Ordinary degree,Male,23 years,State,8522
+Ordinary degree,Male,23 years,Carlow,83
+Ordinary degree,Male,23 years,Dublin City,1216
+Ordinary degree,Male,23 years,Dun Laoghaire-Rathdown,533
+Ordinary degree,Male,23 years,Fingal,575
+Ordinary degree,Male,23 years,South Dublin,429
+Ordinary degree,Male,23 years,Kildare,419
+Ordinary degree,Male,23 years,Kilkenny,156
+Ordinary degree,Male,23 years,Laois,115
+Ordinary degree,Male,23 years,Longford,47
+Ordinary degree,Male,23 years,Louth,198
+Ordinary degree,Male,23 years,Meath,331
+Ordinary degree,Male,23 years,Offaly,94
+Ordinary degree,Male,23 years,Westmeath,152
+Ordinary degree,Male,23 years,Wexford,206
+Ordinary degree,Male,23 years,Wicklow,301
+Ordinary degree,Male,23 years,Clare,220
+Ordinary degree,Male,23 years,Cork City,249
+Ordinary degree,Male,23 years,Cork County,838
+Ordinary degree,Male,23 years,Kerry,274
+Ordinary degree,Male,23 years,Limerick City and County,318
+Ordinary degree,Male,23 years,Tipperary,206
+Ordinary degree,Male,23 years,Waterford City and County,159
+Ordinary degree,Male,23 years,Galway City,181
+Ordinary degree,Male,23 years,Galway County,337
+Ordinary degree,Male,23 years,Leitrim,48
+Ordinary degree,Male,23 years,Mayo,239
+Ordinary degree,Male,23 years,Roscommon,120
+Ordinary degree,Male,23 years,Sligo,112
+Ordinary degree,Male,23 years,Cavan,94
+Ordinary degree,Male,23 years,Donegal,189
+Ordinary degree,Male,23 years,Monaghan,83
+Ordinary degree,Male,24 years,State,6143
+Ordinary degree,Male,24 years,Carlow,56
+Ordinary degree,Male,24 years,Dublin City,899
+Ordinary degree,Male,24 years,Dun Laoghaire-Rathdown,421
+Ordinary degree,Male,24 years,Fingal,455
+Ordinary degree,Male,24 years,South Dublin,346
+Ordinary degree,Male,24 years,Kildare,301
+Ordinary degree,Male,24 years,Kilkenny,115
+Ordinary degree,Male,24 years,Laois,76
+Ordinary degree,Male,24 years,Longford,43
+Ordinary degree,Male,24 years,Louth,146
+Ordinary degree,Male,24 years,Meath,235
+Ordinary degree,Male,24 years,Offaly,60
+Ordinary degree,Male,24 years,Westmeath,109
+Ordinary degree,Male,24 years,Wexford,141
+Ordinary degree,Male,24 years,Wicklow,200
+Ordinary degree,Male,24 years,Clare,148
+Ordinary degree,Male,24 years,Cork City,190
+Ordinary degree,Male,24 years,Cork County,567
+Ordinary degree,Male,24 years,Kerry,198
+Ordinary degree,Male,24 years,Limerick City and County,237
+Ordinary degree,Male,24 years,Tipperary,161
+Ordinary degree,Male,24 years,Waterford City and County,116
+Ordinary degree,Male,24 years,Galway City,114
+Ordinary degree,Male,24 years,Galway County,220
+Ordinary degree,Male,24 years,Leitrim,40
+Ordinary degree,Male,24 years,Mayo,144
+Ordinary degree,Male,24 years,Roscommon,72
+Ordinary degree,Male,24 years,Sligo,84
+Ordinary degree,Male,24 years,Cavan,70
+Ordinary degree,Male,24 years,Donegal,127
+Ordinary degree,Male,24 years,Monaghan,52
+Ordinary degree,Male,25 years and over,State,17605
+Ordinary degree,Male,25 years and over,Carlow,155
+Ordinary degree,Male,25 years and over,Dublin City,2610
+Ordinary degree,Male,25 years and over,Dun Laoghaire-Rathdown,1037
+Ordinary degree,Male,25 years and over,Fingal,1260
+Ordinary degree,Male,25 years and over,South Dublin,1017
+Ordinary degree,Male,25 years and over,Kildare,769
+Ordinary degree,Male,25 years and over,Kilkenny,330
+Ordinary degree,Male,25 years and over,Laois,258
+Ordinary degree,Male,25 years and over,Longford,139
+Ordinary degree,Male,25 years and over,Louth,434
+Ordinary degree,Male,25 years and over,Meath,637
+Ordinary degree,Male,25 years and over,Offaly,202
+Ordinary degree,Male,25 years and over,Westmeath,301
+Ordinary degree,Male,25 years and over,Wexford,448
+Ordinary degree,Male,25 years and over,Wicklow,554
+Ordinary degree,Male,25 years and over,Clare,410
+Ordinary degree,Male,25 years and over,Cork City,578
+Ordinary degree,Male,25 years and over,Cork County,1464
+Ordinary degree,Male,25 years and over,Kerry,538
+Ordinary degree,Male,25 years and over,Limerick City and County,616
+Ordinary degree,Male,25 years and over,Tipperary,489
+Ordinary degree,Male,25 years and over,Waterford City and County,423
+Ordinary degree,Male,25 years and over,Galway City,471
+Ordinary degree,Male,25 years and over,Galway County,658
+Ordinary degree,Male,25 years and over,Leitrim,113
+Ordinary degree,Male,25 years and over,Mayo,453
+Ordinary degree,Male,25 years and over,Roscommon,195
+Ordinary degree,Male,25 years and over,Sligo,243
+Ordinary degree,Male,25 years and over,Cavan,206
+Ordinary degree,Male,25 years and over,Donegal,445
+Ordinary degree,Male,25 years and over,Monaghan,152
+Ordinary degree,Female,18 years,State,8355
+Ordinary degree,Female,18 years,Carlow,81
+Ordinary degree,Female,18 years,Dublin City,867
+Ordinary degree,Female,18 years,Dun Laoghaire-Rathdown,455
+Ordinary degree,Female,18 years,Fingal,660
+Ordinary degree,Female,18 years,South Dublin,576
+Ordinary degree,Female,18 years,Kildare,461
+Ordinary degree,Female,18 years,Kilkenny,163
+Ordinary degree,Female,18 years,Laois,143
+Ordinary degree,Female,18 years,Longford,62
+Ordinary degree,Female,18 years,Louth,200
+Ordinary degree,Female,18 years,Meath,430
+Ordinary degree,Female,18 years,Offaly,141
+Ordinary degree,Female,18 years,Westmeath,129
+Ordinary degree,Female,18 years,Wexford,266
+Ordinary degree,Female,18 years,Wicklow,272
+Ordinary degree,Female,18 years,Clare,239
+Ordinary degree,Female,18 years,Cork City,173
+Ordinary degree,Female,18 years,Cork County,721
+Ordinary degree,Female,18 years,Kerry,201
+Ordinary degree,Female,18 years,Limerick City and County,347
+Ordinary degree,Female,18 years,Tipperary,264
+Ordinary degree,Female,18 years,Waterford City and County,173
+Ordinary degree,Female,18 years,Galway City,116
+Ordinary degree,Female,18 years,Galway County,332
+Ordinary degree,Female,18 years,Leitrim,54
+Ordinary degree,Female,18 years,Mayo,207
+Ordinary degree,Female,18 years,Roscommon,111
+Ordinary degree,Female,18 years,Sligo,118
+Ordinary degree,Female,18 years,Cavan,110
+Ordinary degree,Female,18 years,Donegal,195
+Ordinary degree,Female,18 years,Monaghan,88
+Ordinary degree,Female,19 years,State,5588
+Ordinary degree,Female,19 years,Carlow,57
+Ordinary degree,Female,19 years,Dublin City,509
+Ordinary degree,Female,19 years,Dun Laoghaire-Rathdown,275
+Ordinary degree,Female,19 years,Fingal,397
+Ordinary degree,Female,19 years,South Dublin,302
+Ordinary degree,Female,19 years,Kildare,301
+Ordinary degree,Female,19 years,Kilkenny,118
+Ordinary degree,Female,19 years,Laois,83
+Ordinary degree,Female,19 years,Longford,41
+Ordinary degree,Female,19 years,Louth,154
+Ordinary degree,Female,19 years,Meath,303
+Ordinary degree,Female,19 years,Offaly,78
+Ordinary degree,Female,19 years,Westmeath,93
+Ordinary degree,Female,19 years,Wexford,183
+Ordinary degree,Female,19 years,Wicklow,207
+Ordinary degree,Female,19 years,Clare,160
+Ordinary degree,Female,19 years,Cork City,113
+Ordinary degree,Female,19 years,Cork County,557
+Ordinary degree,Female,19 years,Kerry,185
+Ordinary degree,Female,19 years,Limerick City and County,247
+Ordinary degree,Female,19 years,Tipperary,178
+Ordinary degree,Female,19 years,Waterford City and County,149
+Ordinary degree,Female,19 years,Galway City,81
+Ordinary degree,Female,19 years,Galway County,209
+Ordinary degree,Female,19 years,Leitrim,31
+Ordinary degree,Female,19 years,Mayo,134
+Ordinary degree,Female,19 years,Roscommon,68
+Ordinary degree,Female,19 years,Sligo,71
+Ordinary degree,Female,19 years,Cavan,90
+Ordinary degree,Female,19 years,Donegal,164
+Ordinary degree,Female,19 years,Monaghan,50
+Ordinary degree,Female,20 years,State,10706
+Ordinary degree,Female,20 years,Carlow,113
+Ordinary degree,Female,20 years,Dublin City,871
+Ordinary degree,Female,20 years,Dun Laoghaire-Rathdown,613
+Ordinary degree,Female,20 years,Fingal,699
+Ordinary degree,Female,20 years,South Dublin,558
+Ordinary degree,Female,20 years,Kildare,537
+Ordinary degree,Female,20 years,Kilkenny,257
+Ordinary degree,Female,20 years,Laois,173
+Ordinary degree,Female,20 years,Longford,73
+Ordinary degree,Female,20 years,Louth,318
+Ordinary degree,Female,20 years,Meath,491
+Ordinary degree,Female,20 years,Offaly,158
+Ordinary degree,Female,20 years,Westmeath,205
+Ordinary degree,Female,20 years,Wexford,296
+Ordinary degree,Female,20 years,Wicklow,341
+Ordinary degree,Female,20 years,Clare,299
+Ordinary degree,Female,20 years,Cork City,196
+Ordinary degree,Female,20 years,Cork County,1102
+Ordinary degree,Female,20 years,Kerry,419
+Ordinary degree,Female,20 years,Limerick City and County,430
+Ordinary degree,Female,20 years,Tipperary,322
+Ordinary degree,Female,20 years,Waterford City and County,247
+Ordinary degree,Female,20 years,Galway City,178
+Ordinary degree,Female,20 years,Galway County,462
+Ordinary degree,Female,20 years,Leitrim,73
+Ordinary degree,Female,20 years,Mayo,257
+Ordinary degree,Female,20 years,Roscommon,138
+Ordinary degree,Female,20 years,Sligo,176
+Ordinary degree,Female,20 years,Cavan,181
+Ordinary degree,Female,20 years,Donegal,373
+Ordinary degree,Female,20 years,Monaghan,150
+Ordinary degree,Female,21 years,State,19175
+Ordinary degree,Female,21 years,Carlow,192
+Ordinary degree,Female,21 years,Dublin City,1801
+Ordinary degree,Female,21 years,Dun Laoghaire-Rathdown,1130
+Ordinary degree,Female,21 years,Fingal,1159
+Ordinary degree,Female,21 years,South Dublin,915
+Ordinary degree,Female,21 years,Kildare,911
+Ordinary degree,Female,21 years,Kilkenny,430
+Ordinary degree,Female,21 years,Laois,305
+Ordinary degree,Female,21 years,Longford,134
+Ordinary degree,Female,21 years,Louth,509
+Ordinary degree,Female,21 years,Meath,751
+Ordinary degree,Female,21 years,Offaly,284
+Ordinary degree,Female,21 years,Westmeath,317
+Ordinary degree,Female,21 years,Wexford,585
+Ordinary degree,Female,21 years,Wicklow,625
+Ordinary degree,Female,21 years,Clare,578
+Ordinary degree,Female,21 years,Cork City,411
+Ordinary degree,Female,21 years,Cork County,1935
+Ordinary degree,Female,21 years,Kerry,735
+Ordinary degree,Female,21 years,Limerick City and County,708
+Ordinary degree,Female,21 years,Tipperary,602
+Ordinary degree,Female,21 years,Waterford City and County,426
+Ordinary degree,Female,21 years,Galway City,320
+Ordinary degree,Female,21 years,Galway County,867
+Ordinary degree,Female,21 years,Leitrim,147
+Ordinary degree,Female,21 years,Mayo,581
+Ordinary degree,Female,21 years,Roscommon,291
+Ordinary degree,Female,21 years,Sligo,345
+Ordinary degree,Female,21 years,Cavan,273
+Ordinary degree,Female,21 years,Donegal,660
+Ordinary degree,Female,21 years,Monaghan,248
+Ordinary degree,Female,22 years,State,15217
+Ordinary degree,Female,22 years,Carlow,144
+Ordinary degree,Female,22 years,Dublin City,1767
+Ordinary degree,Female,22 years,Dun Laoghaire-Rathdown,880
+Ordinary degree,Female,22 years,Fingal,1001
+Ordinary degree,Female,22 years,South Dublin,658
+Ordinary degree,Female,22 years,Kildare,674
+Ordinary degree,Female,22 years,Kilkenny,415
+Ordinary degree,Female,22 years,Laois,204
+Ordinary degree,Female,22 years,Longford,127
+Ordinary degree,Female,22 years,Louth,354
+Ordinary degree,Female,22 years,Meath,560
+Ordinary degree,Female,22 years,Offaly,200
+Ordinary degree,Female,22 years,Westmeath,274
+Ordinary degree,Female,22 years,Wexford,399
+Ordinary degree,Female,22 years,Wicklow,445
+Ordinary degree,Female,22 years,Clare,444
+Ordinary degree,Female,22 years,Cork City,364
+Ordinary degree,Female,22 years,Cork County,1529
+Ordinary degree,Female,22 years,Kerry,587
+Ordinary degree,Female,22 years,Limerick City and County,585
+Ordinary degree,Female,22 years,Tipperary,447
+Ordinary degree,Female,22 years,Waterford City and County,351
+Ordinary degree,Female,22 years,Galway City,305
+Ordinary degree,Female,22 years,Galway County,662
+Ordinary degree,Female,22 years,Leitrim,88
+Ordinary degree,Female,22 years,Mayo,417
+Ordinary degree,Female,22 years,Roscommon,203
+Ordinary degree,Female,22 years,Sligo,227
+Ordinary degree,Female,22 years,Cavan,227
+Ordinary degree,Female,22 years,Donegal,483
+Ordinary degree,Female,22 years,Monaghan,196
+Ordinary degree,Female,23 years,State,8829
+Ordinary degree,Female,23 years,Carlow,87
+Ordinary degree,Female,23 years,Dublin City,1135
+Ordinary degree,Female,23 years,Dun Laoghaire-Rathdown,543
+Ordinary degree,Female,23 years,Fingal,589
+Ordinary degree,Female,23 years,South Dublin,441
+Ordinary degree,Female,23 years,Kildare,401
+Ordinary degree,Female,23 years,Kilkenny,207
+Ordinary degree,Female,23 years,Laois,124
+Ordinary degree,Female,23 years,Longford,62
+Ordinary degree,Female,23 years,Louth,192
+Ordinary degree,Female,23 years,Meath,326
+Ordinary degree,Female,23 years,Offaly,121
+Ordinary degree,Female,23 years,Westmeath,134
+Ordinary degree,Female,23 years,Wexford,266
+Ordinary degree,Female,23 years,Wicklow,304
+Ordinary degree,Female,23 years,Clare,217
+Ordinary degree,Female,23 years,Cork City,229
+Ordinary degree,Female,23 years,Cork County,852
+Ordinary degree,Female,23 years,Kerry,308
+Ordinary degree,Female,23 years,Limerick City and County,335
+Ordinary degree,Female,23 years,Tipperary,246
+Ordinary degree,Female,23 years,Waterford City and County,179
+Ordinary degree,Female,23 years,Galway City,189
+Ordinary degree,Female,23 years,Galway County,359
+Ordinary degree,Female,23 years,Leitrim,46
+Ordinary degree,Female,23 years,Mayo,281
+Ordinary degree,Female,23 years,Roscommon,109
+Ordinary degree,Female,23 years,Sligo,107
+Ordinary degree,Female,23 years,Cavan,117
+Ordinary degree,Female,23 years,Donegal,218
+Ordinary degree,Female,23 years,Monaghan,105
+Ordinary degree,Female,24 years,State,5818
+Ordinary degree,Female,24 years,Carlow,46
+Ordinary degree,Female,24 years,Dublin City,773
+Ordinary degree,Female,24 years,Dun Laoghaire-Rathdown,349
+Ordinary degree,Female,24 years,Fingal,441
+Ordinary degree,Female,24 years,South Dublin,311
+Ordinary degree,Female,24 years,Kildare,220
+Ordinary degree,Female,24 years,Kilkenny,107
+Ordinary degree,Female,24 years,Laois,86
+Ordinary degree,Female,24 years,Longford,37
+Ordinary degree,Female,24 years,Louth,120
+Ordinary degree,Female,24 years,Meath,209
+Ordinary degree,Female,24 years,Offaly,84
+Ordinary degree,Female,24 years,Westmeath,102
+Ordinary degree,Female,24 years,Wexford,157
+Ordinary degree,Female,24 years,Wicklow,190
+Ordinary degree,Female,24 years,Clare,140
+Ordinary degree,Female,24 years,Cork City,179
+Ordinary degree,Female,24 years,Cork County,546
+Ordinary degree,Female,24 years,Kerry,186
+Ordinary degree,Female,24 years,Limerick City and County,204
+Ordinary degree,Female,24 years,Tipperary,197
+Ordinary degree,Female,24 years,Waterford City and County,110
+Ordinary degree,Female,24 years,Galway City,154
+Ordinary degree,Female,24 years,Galway County,210
+Ordinary degree,Female,24 years,Leitrim,38
+Ordinary degree,Female,24 years,Mayo,149
+Ordinary degree,Female,24 years,Roscommon,75
+Ordinary degree,Female,24 years,Sligo,87
+Ordinary degree,Female,24 years,Cavan,85
+Ordinary degree,Female,24 years,Donegal,159
+Ordinary degree,Female,24 years,Monaghan,67
+Ordinary degree,Female,25 years and over,State,18432
+Ordinary degree,Female,25 years and over,Carlow,198
+Ordinary degree,Female,25 years and over,Dublin City,2278
+Ordinary degree,Female,25 years and over,Dun Laoghaire-Rathdown,1017
+Ordinary degree,Female,25 years and over,Fingal,1218
+Ordinary degree,Female,25 years and over,South Dublin,924
+Ordinary degree,Female,25 years and over,Kildare,821
+Ordinary degree,Female,25 years and over,Kilkenny,386
+Ordinary degree,Female,25 years and over,Laois,274
+Ordinary degree,Female,25 years and over,Longford,156
+Ordinary degree,Female,25 years and over,Louth,461
+Ordinary degree,Female,25 years and over,Meath,641
+Ordinary degree,Female,25 years and over,Offaly,250
+Ordinary degree,Female,25 years and over,Westmeath,296
+Ordinary degree,Female,25 years and over,Wexford,495
+Ordinary degree,Female,25 years and over,Wicklow,613
+Ordinary degree,Female,25 years and over,Clare,437
+Ordinary degree,Female,25 years and over,Cork City,480
+Ordinary degree,Female,25 years and over,Cork County,1560
+Ordinary degree,Female,25 years and over,Kerry,675
+Ordinary degree,Female,25 years and over,Limerick City and County,676
+Ordinary degree,Female,25 years and over,Tipperary,570
+Ordinary degree,Female,25 years and over,Waterford City and County,461
+Ordinary degree,Female,25 years and over,Galway City,477
+Ordinary degree,Female,25 years and over,Galway County,820
+Ordinary degree,Female,25 years and over,Leitrim,140
+Ordinary degree,Female,25 years and over,Mayo,567
+Ordinary degree,Female,25 years and over,Roscommon,253
+Ordinary degree,Female,25 years and over,Sligo,309
+Ordinary degree,Female,25 years and over,Cavan,228
+Ordinary degree,Female,25 years and over,Donegal,567
+Ordinary degree,Female,25 years and over,Monaghan,184
+Honours degree,Male,18 years,State,4165
+Honours degree,Male,18 years,Carlow,34
+Honours degree,Male,18 years,Dublin City,546
+Honours degree,Male,18 years,Dun Laoghaire-Rathdown,457
+Honours degree,Male,18 years,Fingal,451
+Honours degree,Male,18 years,South Dublin,370
+Honours degree,Male,18 years,Kildare,279
+Honours degree,Male,18 years,Kilkenny,78
+Honours degree,Male,18 years,Laois,52
+Honours degree,Male,18 years,Longford,17
+Honours degree,Male,18 years,Louth,107
+Honours degree,Male,18 years,Meath,177
+Honours degree,Male,18 years,Offaly,44
+Honours degree,Male,18 years,Westmeath,54
+Honours degree,Male,18 years,Wexford,106
+Honours degree,Male,18 years,Wicklow,153
+Honours degree,Male,18 years,Clare,66
+Honours degree,Male,18 years,Cork City,89
+Honours degree,Male,18 years,Cork County,323
+Honours degree,Male,18 years,Kerry,74
+Honours degree,Male,18 years,Limerick City and County,125
+Honours degree,Male,18 years,Tipperary,74
+Honours degree,Male,18 years,Waterford City and County,95
+Honours degree,Male,18 years,Galway City,44
+Honours degree,Male,18 years,Galway County,83
+Honours degree,Male,18 years,Leitrim,16
+Honours degree,Male,18 years,Mayo,69
+Honours degree,Male,18 years,Roscommon,32
+Honours degree,Male,18 years,Sligo,33
+Honours degree,Male,18 years,Cavan,25
+Honours degree,Male,18 years,Donegal,62
+Honours degree,Male,18 years,Monaghan,30
+Honours degree,Male,19 years,State,1712
+Honours degree,Male,19 years,Carlow,19
+Honours degree,Male,19 years,Dublin City,194
+Honours degree,Male,19 years,Dun Laoghaire-Rathdown,160
+Honours degree,Male,19 years,Fingal,155
+Honours degree,Male,19 years,South Dublin,127
+Honours degree,Male,19 years,Kildare,106
+Honours degree,Male,19 years,Kilkenny,32
+Honours degree,Male,19 years,Laois,18
+Honours degree,Male,19 years,Longford,5
+Honours degree,Male,19 years,Louth,38
+Honours degree,Male,19 years,Meath,95
+Honours degree,Male,19 years,Offaly,11
+Honours degree,Male,19 years,Westmeath,39
+Honours degree,Male,19 years,Wexford,44
+Honours degree,Male,19 years,Wicklow,63
+Honours degree,Male,19 years,Clare,51
+Honours degree,Male,19 years,Cork City,21
+Honours degree,Male,19 years,Cork County,170
+Honours degree,Male,19 years,Kerry,42
+Honours degree,Male,19 years,Limerick City and County,59
+Honours degree,Male,19 years,Tipperary,43
+Honours degree,Male,19 years,Waterford City and County,36
+Honours degree,Male,19 years,Galway City,20
+Honours degree,Male,19 years,Galway County,34
+Honours degree,Male,19 years,Leitrim,4
+Honours degree,Male,19 years,Mayo,22
+Honours degree,Male,19 years,Roscommon,19
+Honours degree,Male,19 years,Sligo,21
+Honours degree,Male,19 years,Cavan,17
+Honours degree,Male,19 years,Donegal,32
+Honours degree,Male,19 years,Monaghan,15
+Honours degree,Male,20 years,,
+Honours degree,Male,20 years,State,4796
+Honours degree,Male,20 years,Carlow,43
+Honours degree,Male,20 years,Dublin City,720
+Honours degree,Male,20 years,Dun Laoghaire-Rathdown,442
+Honours degree,Male,20 years,Fingal,412
+Honours degree,Male,20 years,South Dublin,290
+Honours degree,Male,20 years,Kildare,294
+Honours degree,Male,20 years,Kilkenny,93
+Honours degree,Male,20 years,Laois,60
+Honours degree,Male,20 years,Longford,27
+Honours degree,Male,20 years,Louth,141
+Honours degree,Male,20 years,Meath,220
+Honours degree,Male,20 years,Offaly,46
+Honours degree,Male,20 years,Westmeath,85
+Honours degree,Male,20 years,Wexford,93
+Honours degree,Male,20 years,Wicklow,169
+Honours degree,Male,20 years,Clare,105
+Honours degree,Male,20 years,Cork City,92
+Honours degree,Male,20 years,Cork County,380
+Honours degree,Male,20 years,Kerry,101
+Honours degree,Male,20 years,Limerick City and County,135
+Honours degree,Male,20 years,Tipperary,91
+Honours degree,Male,20 years,Waterford City and County,102
+Honours degree,Male,20 years,Galway City,86
+Honours degree,Male,20 years,Galway County,152
+Honours degree,Male,20 years,Leitrim,27
+Honours degree,Male,20 years,Mayo,82
+Honours degree,Male,20 years,Roscommon,51
+Honours degree,Male,20 years,Sligo,47
+Honours degree,Male,20 years,Cavan,61
+Honours degree,Male,20 years,Donegal,105
+Honours degree,Male,20 years,Monaghan,44
+Honours degree,Male,21 years,State,20499
+Honours degree,Male,21 years,Carlow,150
+Honours degree,Male,21 years,Dublin City,3354
+Honours degree,Male,21 years,Dun Laoghaire-Rathdown,1916
+Honours degree,Male,21 years,Fingal,1527
+Honours degree,Male,21 years,South Dublin,1143
+Honours degree,Male,21 years,Kildare,1118
+Honours degree,Male,21 years,Kilkenny,352
+Honours degree,Male,21 years,Laois,254
+Honours degree,Male,21 years,Longford,132
+Honours degree,Male,21 years,Louth,488
+Honours degree,Male,21 years,Meath,786
+Honours degree,Male,21 years,Offaly,169
+Honours degree,Male,21 years,Westmeath,281
+Honours degree,Male,21 years,Wexford,430
+Honours degree,Male,21 years,Wicklow,585
+Honours degree,Male,21 years,Clare,488
+Honours degree,Male,21 years,Cork City,476
+Honours degree,Male,21 years,Cork County,1833
+Honours degree,Male,21 years,Kerry,495
+Honours degree,Male,21 years,Limerick City and County,774
+Honours degree,Male,21 years,Tipperary,451
+Honours degree,Male,21 years,Waterford City and County,430
+Honours degree,Male,21 years,Galway City,417
+Honours degree,Male,21 years,Galway County,763
+Honours degree,Male,21 years,Leitrim,128
+Honours degree,Male,21 years,Mayo,355
+Honours degree,Male,21 years,Roscommon,190
+Honours degree,Male,21 years,Sligo,210
+Honours degree,Male,21 years,Cavan,181
+Honours degree,Male,21 years,Donegal,482
+Honours degree,Male,21 years,Monaghan,141
+Honours degree,Male,22 years,State,27470
+Honours degree,Male,22 years,Carlow,223
+Honours degree,Male,22 years,Dublin City,4708
+Honours degree,Male,22 years,Dun Laoghaire-Rathdown,2672
+Honours degree,Male,22 years,Fingal,1859
+Honours degree,Male,22 years,South Dublin,1475
+Honours degree,Male,22 years,Kildare,1254
+Honours degree,Male,22 years,Kilkenny,531
+Honours degree,Male,22 years,Laois,274
+Honours degree,Male,22 years,Longford,133
+Honours degree,Male,22 years,Louth,511
+Honours degree,Male,22 years,Meath,917
+Honours degree,Male,22 years,Offaly,259
+Honours degree,Male,22 years,Westmeath,426
+Honours degree,Male,22 years,Wexford,582
+Honours degree,Male,22 years,Wicklow,776
+Honours degree,Male,22 years,Clare,589
+Honours degree,Male,22 years,Cork City,840
+Honours degree,Male,22 years,Cork County,2688
+Honours degree,Male,22 years,Kerry,648
+Honours degree,Male,22 years,Limerick City and County,1151
+Honours degree,Male,22 years,Tipperary,647
+Honours degree,Male,22 years,Waterford City and County,553
+Honours degree,Male,22 years,Galway City,523
+Honours degree,Male,22 years,Galway County,962
+Honours degree,Male,22 years,Leitrim,129
+Honours degree,Male,22 years,Mayo,573
+Honours degree,Male,22 years,Roscommon,260
+Honours degree,Male,22 years,Sligo,297
+Honours degree,Male,22 years,Cavan,255
+Honours degree,Male,22 years,Donegal,517
+Honours degree,Male,22 years,Monaghan,238
+Honours degree,Male,23 years,State,17305
+Honours degree,Male,23 years,Carlow,134
+Honours degree,Male,23 years,Dublin City,3067
+Honours degree,Male,23 years,Dun Laoghaire-Rathdown,1530
+Honours degree,Male,23 years,Fingal,1135
+Honours degree,Male,23 years,South Dublin,899
+Honours degree,Male,23 years,Kildare,809
+Honours degree,Male,23 years,Kilkenny,369
+Honours degree,Male,23 years,Laois,182
+Honours degree,Male,23 years,Longford,86
+Honours degree,Male,23 years,Louth,345
+Honours degree,Male,23 years,Meath,528
+Honours degree,Male,23 years,Offaly,171
+Honours degree,Male,23 years,Westmeath,268
+Honours degree,Male,23 years,Wexford,379
+Honours degree,Male,23 years,Wicklow,516
+Honours degree,Male,23 years,Clare,349
+Honours degree,Male,23 years,Cork City,542
+Honours degree,Male,23 years,Cork County,1667
+Honours degree,Male,23 years,Kerry,390
+Honours degree,Male,23 years,Limerick City and County,677
+Honours degree,Male,23 years,Tipperary,408
+Honours degree,Male,23 years,Waterford City and County,341
+Honours degree,Male,23 years,Galway City,352
+Honours degree,Male,23 years,Galway County,580
+Honours degree,Male,23 years,Leitrim,95
+Honours degree,Male,23 years,Mayo,404
+Honours degree,Male,23 years,Roscommon,188
+Honours degree,Male,23 years,Sligo,194
+Honours degree,Male,23 years,Cavan,181
+Honours degree,Male,23 years,Donegal,348
+Honours degree,Male,23 years,Monaghan,171
+Honours degree,Male,24 years,State,10873
+Honours degree,Male,24 years,Carlow,98
+Honours degree,Male,24 years,Dublin City,1973
+Honours degree,Male,24 years,Dun Laoghaire-Rathdown,968
+Honours degree,Male,24 years,Fingal,749
+Honours degree,Male,24 years,South Dublin,603
+Honours degree,Male,24 years,Kildare,510
+Honours degree,Male,24 years,Kilkenny,197
+Honours degree,Male,24 years,Laois,121
+Honours degree,Male,24 years,Longford,41
+Honours degree,Male,24 years,Louth,231
+Honours degree,Male,24 years,Meath,324
+Honours degree,Male,24 years,Offaly,101
+Honours degree,Male,24 years,Westmeath,189
+Honours degree,Male,24 years,Wexford,224
+Honours degree,Male,24 years,Wicklow,316
+Honours degree,Male,24 years,Clare,194
+Honours degree,Male,24 years,Cork City,347
+Honours degree,Male,24 years,Cork County,973
+Honours degree,Male,24 years,Kerry,266
+Honours degree,Male,24 years,Limerick City and County,367
+Honours degree,Male,24 years,Tipperary,251
+Honours degree,Male,24 years,Waterford City and County,221
+Honours degree,Male,24 years,Galway City,270
+Honours degree,Male,24 years,Galway County,360
+Honours degree,Male,24 years,Leitrim,55
+Honours degree,Male,24 years,Mayo,258
+Honours degree,Male,24 years,Roscommon,112
+Honours degree,Male,24 years,Sligo,140
+Honours degree,Male,24 years,Cavan,92
+Honours degree,Male,24 years,Donegal,234
+Honours degree,Male,24 years,Monaghan,88
+Honours degree,Male,25 years and over,State,27750
+Honours degree,Male,25 years and over,Carlow,291
+Honours degree,Male,25 years and over,Dublin City,4509
+Honours degree,Male,25 years and over,Dun Laoghaire-Rathdown,2148
+Honours degree,Male,25 years and over,Fingal,1940
+Honours degree,Male,25 years and over,South Dublin,1543
+Honours degree,Male,25 years and over,Kildare,1228
+Honours degree,Male,25 years and over,Kilkenny,527
+Honours degree,Male,25 years and over,Laois,328
+Honours degree,Male,25 years and over,Longford,161
+Honours degree,Male,25 years and over,Louth,647
+Honours degree,Male,25 years and over,Meath,942
+Honours degree,Male,25 years and over,Offaly,288
+Honours degree,Male,25 years and over,Westmeath,424
+Honours degree,Male,25 years and over,Wexford,609
+Honours degree,Male,25 years and over,Wicklow,817
+Honours degree,Male,25 years and over,Clare,599
+Honours degree,Male,25 years and over,Cork City,908
+Honours degree,Male,25 years and over,Cork County,2297
+Honours degree,Male,25 years and over,Kerry,719
+Honours degree,Male,25 years and over,Limerick City and County,1160
+Honours degree,Male,25 years and over,Tipperary,687
+Honours degree,Male,25 years and over,Waterford City and County,681
+Honours degree,Male,25 years and over,Galway City,736
+Honours degree,Male,25 years and over,Galway County,930
+Honours degree,Male,25 years and over,Leitrim,148
+Honours degree,Male,25 years and over,Mayo,609
+Honours degree,Male,25 years and over,Roscommon,300
+Honours degree,Male,25 years and over,Sligo,361
+Honours degree,Male,25 years and over,Cavan,245
+Honours degree,Male,25 years and over,Donegal,755
+Honours degree,Male,25 years and over,Monaghan,213
+Honours degree,Female,18 years,State,4846
+Honours degree,Female,18 years,Carlow,53
+Honours degree,Female,18 years,Dublin City,612
+Honours degree,Female,18 years,Dun Laoghaire-Rathdown,351
+Honours degree,Female,18 years,Fingal,417
+Honours degree,Female,18 years,South Dublin,322
+Honours degree,Female,18 years,Kildare,274
+Honours degree,Female,18 years,Kilkenny,108
+Honours degree,Female,18 years,Laois,74
+Honours degree,Female,18 years,Longford,24
+Honours degree,Female,18 years,Louth,110
+Honours degree,Female,18 years,Meath,239
+Honours degree,Female,18 years,Offaly,68
+Honours degree,Female,18 years,Westmeath,78
+Honours degree,Female,18 years,Wexford,161
+Honours degree,Female,18 years,Wicklow,179
+Honours degree,Female,18 years,Clare,128
+Honours degree,Female,18 years,Cork City,85
+Honours degree,Female,18 years,Cork County,359
+Honours degree,Female,18 years,Kerry,108
+Honours degree,Female,18 years,Limerick City and County,140
+Honours degree,Female,18 years,Tipperary,136
+Honours degree,Female,18 years,Waterford City and County,108
+Honours degree,Female,18 years,Galway City,64
+Honours degree,Female,18 years,Galway County,162
+Honours degree,Female,18 years,Leitrim,28
+Honours degree,Female,18 years,Mayo,116
+Honours degree,Female,18 years,Roscommon,54
+Honours degree,Female,18 years,Sligo,63
+Honours degree,Female,18 years,Cavan,47
+Honours degree,Female,18 years,Donegal,127
+Honours degree,Female,18 years,Monaghan,51
+Honours degree,Female,19 years,State,2486
+Honours degree,Female,19 years,Carlow,34
+Honours degree,Female,19 years,Dublin City,275
+Honours degree,Female,19 years,Dun Laoghaire-Rathdown,153
+Honours degree,Female,19 years,Fingal,186
+Honours degree,Female,19 years,South Dublin,155
+Honours degree,Female,19 years,Kildare,146
+Honours degree,Female,19 years,Kilkenny,67
+Honours degree,Female,19 years,Laois,39
+Honours degree,Female,19 years,Longford,10
+Honours degree,Female,19 years,Louth,66
+Honours degree,Female,19 years,Meath,106
+Honours degree,Female,19 years,Offaly,39
+Honours degree,Female,19 years,Westmeath,46
+Honours degree,Female,19 years,Wexford,79
+Honours degree,Female,19 years,Wicklow,105
+Honours degree,Female,19 years,Clare,57
+Honours degree,Female,19 years,Cork City,44
+Honours degree,Female,19 years,Cork County,229
+Honours degree,Female,19 years,Kerry,62
+Honours degree,Female,19 years,Limerick City and County,75
+Honours degree,Female,19 years,Tipperary,90
+Honours degree,Female,19 years,Waterford City and County,70
+Honours degree,Female,19 years,Galway City,39
+Honours degree,Female,19 years,Galway County,87
+Honours degree,Female,19 years,Leitrim,11
+Honours degree,Female,19 years,Mayo,47
+Honours degree,Female,19 years,Roscommon,21
+Honours degree,Female,19 years,Sligo,35
+Honours degree,Female,19 years,Cavan,27
+Honours degree,Female,19 years,Donegal,67
+Honours degree,Female,19 years,Monaghan,19
+Honours degree,Female,20 years,State,8958
+Honours degree,Female,20 years,Carlow,87
+Honours degree,Female,20 years,Dublin City,1059
+Honours degree,Female,20 years,Dun Laoghaire-Rathdown,553
+Honours degree,Female,20 years,Fingal,568
+Honours degree,Female,20 years,South Dublin,495
+Honours degree,Female,20 years,Kildare,545
+Honours degree,Female,20 years,Kilkenny,177
+Honours degree,Female,20 years,Laois,170
+Honours degree,Female,20 years,Longford,69
+Honours degree,Female,20 years,Louth,254
+Honours degree,Female,20 years,Meath,452
+Honours degree,Female,20 years,Offaly,128
+Honours degree,Female,20 years,Westmeath,148
+Honours degree,Female,20 years,Wexford,284
+Honours degree,Female,20 years,Wicklow,223
+Honours degree,Female,20 years,Clare,233
+Honours degree,Female,20 years,Cork City,165
+Honours degree,Female,20 years,Cork County,752
+Honours degree,Female,20 years,Kerry,252
+Honours degree,Female,20 years,Limerick City and County,303
+Honours degree,Female,20 years,Tipperary,298
+Honours degree,Female,20 years,Waterford City and County,208
+Honours degree,Female,20 years,Galway City,163
+Honours degree,Female,20 years,Galway County,361
+Honours degree,Female,20 years,Leitrim,50
+Honours degree,Female,20 years,Mayo,184
+Honours degree,Female,20 years,Roscommon,99
+Honours degree,Female,20 years,Sligo,130
+Honours degree,Female,20 years,Cavan,160
+Honours degree,Female,20 years,Donegal,301
+Honours degree,Female,20 years,Monaghan,87
+Honours degree,Female,21 years,State,31360
+Honours degree,Female,21 years,Carlow,308
+Honours degree,Female,21 years,Dublin City,4286
+Honours degree,Female,21 years,Dun Laoghaire-Rathdown,2091
+Honours degree,Female,21 years,Fingal,2004
+Honours degree,Female,21 years,South Dublin,1608
+Honours degree,Female,21 years,Kildare,1538
+Honours degree,Female,21 years,Kilkenny,713
+Honours degree,Female,21 years,Laois,472
+Honours degree,Female,21 years,Longford,200
+Honours degree,Female,21 years,Louth,729
+Honours degree,Female,21 years,Meath,1307
+Honours degree,Female,21 years,Offaly,416
+Honours degree,Female,21 years,Westmeath,536
+Honours degree,Female,21 years,Wexford,877
+Honours degree,Female,21 years,Wicklow,894
+Honours degree,Female,21 years,Clare,815
+Honours degree,Female,21 years,Cork City,684
+Honours degree,Female,21 years,Cork County,2920
+Honours degree,Female,21 years,Kerry,864
+Honours degree,Female,21 years,Limerick City and County,1140
+Honours degree,Female,21 years,Tipperary,868
+Honours degree,Female,21 years,Waterford City and County,717
+Honours degree,Female,21 years,Galway City,649
+Honours degree,Female,21 years,Galway County,1181
+Honours degree,Female,21 years,Leitrim,219
+Honours degree,Female,21 years,Mayo,698
+Honours degree,Female,21 years,Roscommon,408
+Honours degree,Female,21 years,Sligo,424
+Honours degree,Female,21 years,Cavan,451
+Honours degree,Female,21 years,Donegal,970
+Honours degree,Female,21 years,Monaghan,373
+Honours degree,Female,22 years,State,34190
+Honours degree,Female,22 years,Carlow,299
+Honours degree,Female,22 years,Dublin City,5207
+Honours degree,Female,22 years,Dun Laoghaire-Rathdown,2637
+Honours degree,Female,22 years,Fingal,2171
+Honours degree,Female,22 years,South Dublin,1859
+Honours degree,Female,22 years,Kildare,1604
+Honours degree,Female,22 years,Kilkenny,785
+Honours degree,Female,22 years,Laois,442
+Honours degree,Female,22 years,Longford,206
+Honours degree,Female,22 years,Louth,709
+Honours degree,Female,22 years,Meath,1144
+Honours degree,Female,22 years,Offaly,375
+Honours degree,Female,22 years,Westmeath,550
+Honours degree,Female,22 years,Wexford,917
+Honours degree,Female,22 years,Wicklow,1008
+Honours degree,Female,22 years,Clare,756
+Honours degree,Female,22 years,Cork City,931
+Honours degree,Female,22 years,Cork County,3402
+Honours degree,Female,22 years,Kerry,926
+Honours degree,Female,22 years,Limerick City and County,1234
+Honours degree,Female,22 years,Tipperary,947
+Honours degree,Female,22 years,Waterford City and County,785
+Honours degree,Female,22 years,Galway City,617
+Honours degree,Female,22 years,Galway County,1189
+Honours degree,Female,22 years,Leitrim,166
+Honours degree,Female,22 years,Mayo,817
+Honours degree,Female,22 years,Roscommon,423
+Honours degree,Female,22 years,Sligo,457
+Honours degree,Female,22 years,Cavan,409
+Honours degree,Female,22 years,Donegal,780
+Honours degree,Female,22 years,Monaghan,438
+Honours degree,Female,23 years,State,19827
+Honours degree,Female,23 years,Carlow,202
+Honours degree,Female,23 years,Dublin City,3252
+Honours degree,Female,23 years,Dun Laoghaire-Rathdown,1477
+Honours degree,Female,23 years,Fingal,1313
+Honours degree,Female,23 years,South Dublin,1061
+Honours degree,Female,23 years,Kildare,894
+Honours degree,Female,23 years,Kilkenny,448
+Honours degree,Female,23 years,Laois,246
+Honours degree,Female,23 years,Longford,115
+Honours degree,Female,23 years,Louth,387
+Honours degree,Female,23 years,Meath,658
+Honours degree,Female,23 years,Offaly,194
+Honours degree,Female,23 years,Westmeath,288
+Honours degree,Female,23 years,Wexford,539
+Honours degree,Female,23 years,Wicklow,590
+Honours degree,Female,23 years,Clare,409
+Honours degree,Female,23 years,Cork City,544
+Honours degree,Female,23 years,Cork County,1863
+Honours degree,Female,23 years,Kerry,500
+Honours degree,Female,23 years,Limerick City and County,666
+Honours degree,Female,23 years,Tipperary,520
+Honours degree,Female,23 years,Waterford City and County,429
+Honours degree,Female,23 years,Galway City,403
+Honours degree,Female,23 years,Galway County,722
+Honours degree,Female,23 years,Leitrim,108
+Honours degree,Female,23 years,Mayo,563
+Honours degree,Female,23 years,Roscommon,245
+Honours degree,Female,23 years,Sligo,292
+Honours degree,Female,23 years,Cavan,211
+Honours degree,Female,23 years,Donegal,469
+Honours degree,Female,23 years,Monaghan,219
+Honours degree,Female,24 years,State,11093
+Honours degree,Female,24 years,Carlow,107
+Honours degree,Female,24 years,Dublin City,1840
+Honours degree,Female,24 years,Dun Laoghaire-Rathdown,811
+Honours degree,Female,24 years,Fingal,769
+Honours degree,Female,24 years,South Dublin,556
+Honours degree,Female,24 years,Kildare,487
+Honours degree,Female,24 years,Kilkenny,252
+Honours degree,Female,24 years,Laois,155
+Honours degree,Female,24 years,Longford,71
+Honours degree,Female,24 years,Louth,259
+Honours degree,Female,24 years,Meath,397
+Honours degree,Female,24 years,Offaly,112
+Honours degree,Female,24 years,Westmeath,212
+Honours degree,Female,24 years,Wexford,266
+Honours degree,Female,24 years,Wicklow,359
+Honours degree,Female,24 years,Clare,213
+Honours degree,Female,24 years,Cork City,274
+Honours degree,Female,24 years,Cork County,959
+Honours degree,Female,24 years,Kerry,299
+Honours degree,Female,24 years,Limerick City and County,347
+Honours degree,Female,24 years,Tipperary,272
+Honours degree,Female,24 years,Waterford City and County,250
+Honours degree,Female,24 years,Galway City,228
+Honours degree,Female,24 years,Galway County,421
+Honours degree,Female,24 years,Leitrim,56
+Honours degree,Female,24 years,Mayo,290
+Honours degree,Female,24 years,Roscommon,137
+Honours degree,Female,24 years,Sligo,144
+Honours degree,Female,24 years,Cavan,125
+Honours degree,Female,24 years,Donegal,276
+Honours degree,Female,24 years,Monaghan,149
+Honours degree,Female,25 years and over,State,29695
+Honours degree,Female,25 years and over,Carlow,339
+Honours degree,Female,25 years and over,Dublin City,4229
+Honours degree,Female,25 years and over,Dun Laoghaire-Rathdown,1906
+Honours degree,Female,25 years and over,Fingal,1858
+Honours degree,Female,25 years and over,South Dublin,1554
+Honours degree,Female,25 years and over,Kildare,1301
+Honours degree,Female,25 years and over,Kilkenny,682
+Honours degree,Female,25 years and over,Laois,429
+Honours degree,Female,25 years and over,Longford,186
+Honours degree,Female,25 years and over,Louth,751
+Honours degree,Female,25 years and over,Meath,1062
+Honours degree,Female,25 years and over,Offaly,334
+Honours degree,Female,25 years and over,Westmeath,489
+Honours degree,Female,25 years and over,Wexford,814
+Honours degree,Female,25 years and over,Wicklow,899
+Honours degree,Female,25 years and over,Clare,730
+Honours degree,Female,25 years and over,Cork City,855
+Honours degree,Female,25 years and over,Cork County,2454
+Honours degree,Female,25 years and over,Kerry,810
+Honours degree,Female,25 years and over,Limerick City and County,1113
+Honours degree,Female,25 years and over,Tipperary,827
+Honours degree,Female,25 years and over,Waterford City and County,767
+Honours degree,Female,25 years and over,Galway City,743
+Honours degree,Female,25 years and over,Galway County,1194
+Honours degree,Female,25 years and over,Leitrim,202
+Honours degree,Female,25 years and over,Mayo,820
+Honours degree,Female,25 years and over,Roscommon,365
+Honours degree,Female,25 years and over,Sligo,436
+Honours degree,Female,25 years and over,Cavan,317
+Honours degree,Female,25 years and over,Donegal,929
+Honours degree,Female,25 years and over,Monaghan,300
+Postgraduate,Male,18 years,State,2801
+Postgraduate,Male,18 years,Carlow,22
+Postgraduate,Male,18 years,Dublin City,416
+Postgraduate,Male,18 years,Dun Laoghaire-Rathdown,305
+Postgraduate,Male,18 years,Fingal,316
+Postgraduate,Male,18 years,South Dublin,226
+Postgraduate,Male,18 years,Kildare,172
+Postgraduate,Male,18 years,Kilkenny,46
+Postgraduate,Male,18 years,Laois,26
+Postgraduate,Male,18 years,Longford,7
+Postgraduate,Male,18 years,Louth,75
+Postgraduate,Male,18 years,Meath,139
+Postgraduate,Male,18 years,Offaly,16
+Postgraduate,Male,18 years,Westmeath,31
+Postgraduate,Male,18 years,Wexford,54
+Postgraduate,Male,18 years,Wicklow,105
+Postgraduate,Male,18 years,Clare,56
+Postgraduate,Male,18 years,Cork City,61
+Postgraduate,Male,18 years,Cork County,186
+Postgraduate,Male,18 years,Kerry,35
+Postgraduate,Male,18 years,Limerick City and County,79
+Postgraduate,Male,18 years,Tipperary,71
+Postgraduate,Male,18 years,Waterford City and County,52
+Postgraduate,Male,18 years,Galway City,30
+Postgraduate,Male,18 years,Galway County,69
+Postgraduate,Male,18 years,Leitrim,7
+Postgraduate,Male,18 years,Mayo,41
+Postgraduate,Male,18 years,Roscommon,19
+Postgraduate,Male,18 years,Sligo,34
+Postgraduate,Male,18 years,Cavan,24
+Postgraduate,Male,18 years,Donegal,65
+Postgraduate,Male,18 years,Monaghan,16
+Postgraduate,Male,19 years,State,1088
+Postgraduate,Male,19 years,Carlow,9
+Postgraduate,Male,19 years,Dublin City,137
+Postgraduate,Male,19 years,Dun Laoghaire-Rathdown,102
+Postgraduate,Male,19 years,Fingal,103
+Postgraduate,Male,19 years,South Dublin,88
+Postgraduate,Male,19 years,Kildare,75
+Postgraduate,Male,19 years,Kilkenny,23
+Postgraduate,Male,19 years,Laois,12
+Postgraduate,Male,19 years,Longford,4
+Postgraduate,Male,19 years,Louth,44
+Postgraduate,Male,19 years,Meath,58
+Postgraduate,Male,19 years,Offaly,10
+Postgraduate,Male,19 years,Westmeath,9
+Postgraduate,Male,19 years,Wexford,24
+Postgraduate,Male,19 years,Wicklow,39
+Postgraduate,Male,19 years,Clare,20
+Postgraduate,Male,19 years,Cork City,26
+Postgraduate,Male,19 years,Cork County,91
+Postgraduate,Male,19 years,Kerry,27
+Postgraduate,Male,19 years,Limerick City and County,23
+Postgraduate,Male,19 years,Tipperary,20
+Postgraduate,Male,19 years,Waterford City and County,30
+Postgraduate,Male,19 years,Galway City,16
+Postgraduate,Male,19 years,Galway County,24
+Postgraduate,Male,19 years,Leitrim,7
+Postgraduate,Male,19 years,Mayo,23
+Postgraduate,Male,19 years,Roscommon,7
+Postgraduate,Male,19 years,Sligo,6
+Postgraduate,Male,19 years,Cavan,4
+Postgraduate,Male,19 years,Donegal,21
+Postgraduate,Male,19 years,Monaghan,6
+Postgraduate,Male,20 years,State,2493
+Postgraduate,Male,20 years,Carlow,17
+Postgraduate,Male,20 years,Dublin City,335
+Postgraduate,Male,20 years,Dun Laoghaire-Rathdown,239
+Postgraduate,Male,20 years,Fingal,210
+Postgraduate,Male,20 years,South Dublin,144
+Postgraduate,Male,20 years,Kildare,151
+Postgraduate,Male,20 years,Kilkenny,57
+Postgraduate,Male,20 years,Laois,24
+Postgraduate,Male,20 years,Longford,8
+Postgraduate,Male,20 years,Louth,75
+Postgraduate,Male,20 years,Meath,118
+Postgraduate,Male,20 years,Offaly,27
+Postgraduate,Male,20 years,Westmeath,33
+Postgraduate,Male,20 years,Wexford,53
+Postgraduate,Male,20 years,Wicklow,90
+Postgraduate,Male,20 years,Clare,55
+Postgraduate,Male,20 years,Cork City,40
+Postgraduate,Male,20 years,Cork County,227
+Postgraduate,Male,20 years,Kerry,46
+Postgraduate,Male,20 years,Limerick City and County,60
+Postgraduate,Male,20 years,Tipperary,57
+Postgraduate,Male,20 years,Waterford City and County,69
+Postgraduate,Male,20 years,Galway City,50
+Postgraduate,Male,20 years,Galway County,116
+Postgraduate,Male,20 years,Leitrim,8
+Postgraduate,Male,20 years,Mayo,30
+Postgraduate,Male,20 years,Roscommon,23
+Postgraduate,Male,20 years,Sligo,28
+Postgraduate,Male,20 years,Cavan,29
+Postgraduate,Male,20 years,Donegal,53
+Postgraduate,Male,20 years,Monaghan,21
+Postgraduate,Male,21 years,State,9107
+Postgraduate,Male,21 years,Carlow,65
+Postgraduate,Male,21 years,Dublin City,1470
+Postgraduate,Male,21 years,Dun Laoghaire-Rathdown,1091
+Postgraduate,Male,21 years,Fingal,734
+Postgraduate,Male,21 years,South Dublin,516
+Postgraduate,Male,21 years,Kildare,549
+Postgraduate,Male,21 years,Kilkenny,132
+Postgraduate,Male,21 years,Laois,87
+Postgraduate,Male,21 years,Longford,42
+Postgraduate,Male,21 years,Louth,203
+Postgraduate,Male,21 years,Meath,355
+Postgraduate,Male,21 years,Offaly,68
+Postgraduate,Male,21 years,Westmeath,120
+Postgraduate,Male,21 years,Wexford,163
+Postgraduate,Male,21 years,Wicklow,283
+Postgraduate,Male,21 years,Clare,204
+Postgraduate,Male,21 years,Cork City,199
+Postgraduate,Male,21 years,Cork County,733
+Postgraduate,Male,21 years,Kerry,159
+Postgraduate,Male,21 years,Limerick City and County,295
+Postgraduate,Male,21 years,Tipperary,193
+Postgraduate,Male,21 years,Waterford City and County,184
+Postgraduate,Male,21 years,Galway City,194
+Postgraduate,Male,21 years,Galway County,326
+Postgraduate,Male,21 years,Leitrim,30
+Postgraduate,Male,21 years,Mayo,169
+Postgraduate,Male,21 years,Roscommon,70
+Postgraduate,Male,21 years,Sligo,119
+Postgraduate,Male,21 years,Cavan,75
+Postgraduate,Male,21 years,Donegal,209
+Postgraduate,Male,21 years,Monaghan,70
+Postgraduate,Male,22 years,State,13508
+Postgraduate,Male,22 years,Carlow,81
+Postgraduate,Male,22 years,Dublin City,2613
+Postgraduate,Male,22 years,Dun Laoghaire-Rathdown,1828
+Postgraduate,Male,22 years,Fingal,1022
+Postgraduate,Male,22 years,South Dublin,765
+Postgraduate,Male,22 years,Kildare,721
+Postgraduate,Male,22 years,Kilkenny,207
+Postgraduate,Male,22 years,Laois,130
+Postgraduate,Male,22 years,Longford,66
+Postgraduate,Male,22 years,Louth,260
+Postgraduate,Male,22 years,Meath,412
+Postgraduate,Male,22 years,Offaly,93
+Postgraduate,Male,22 years,Westmeath,179
+Postgraduate,Male,22 years,Wexford,216
+Postgraduate,Male,22 years,Wicklow,399
+Postgraduate,Male,22 years,Clare,263
+Postgraduate,Male,22 years,Cork City,321
+Postgraduate,Male,22 years,Cork County,1093
+Postgraduate,Male,22 years,Kerry,244
+Postgraduate,Male,22 years,Limerick City and County,376
+Postgraduate,Male,22 years,Tipperary,284
+Postgraduate,Male,22 years,Waterford City and County,229
+Postgraduate,Male,22 years,Galway City,276
+Postgraduate,Male,22 years,Galway County,458
+Postgraduate,Male,22 years,Leitrim,61
+Postgraduate,Male,22 years,Mayo,209
+Postgraduate,Male,22 years,Roscommon,126
+Postgraduate,Male,22 years,Sligo,134
+Postgraduate,Male,22 years,Cavan,89
+Postgraduate,Male,22 years,Donegal,256
+Postgraduate,Male,22 years,Monaghan,97
+Postgraduate,Male,23 years,State,14111
+Postgraduate,Male,23 years,Carlow,77
+Postgraduate,Male,23 years,Dublin City,3105
+Postgraduate,Male,23 years,Dun Laoghaire-Rathdown,1779
+Postgraduate,Male,23 years,Fingal,983
+Postgraduate,Male,23 years,South Dublin,724
+Postgraduate,Male,23 years,Kildare,640
+Postgraduate,Male,23 years,Kilkenny,210
+Postgraduate,Male,23 years,Laois,118
+Postgraduate,Male,23 years,Longford,45
+Postgraduate,Male,23 years,Louth,243
+Postgraduate,Male,23 years,Meath,392
+Postgraduate,Male,23 years,Offaly,113
+Postgraduate,Male,23 years,Westmeath,184
+Postgraduate,Male,23 years,Wexford,225
+Postgraduate,Male,23 years,Wicklow,377
+Postgraduate,Male,23 years,Clare,259
+Postgraduate,Male,23 years,Cork City,470
+Postgraduate,Male,23 years,Cork County,1230
+Postgraduate,Male,23 years,Kerry,242
+Postgraduate,Male,23 years,Limerick City and County,428
+Postgraduate,Male,23 years,Tipperary,261
+Postgraduate,Male,23 years,Waterford City and County,263
+Postgraduate,Male,23 years,Galway City,317
+Postgraduate,Male,23 years,Galway County,458
+Postgraduate,Male,23 years,Leitrim,46
+Postgraduate,Male,23 years,Mayo,237
+Postgraduate,Male,23 years,Roscommon,104
+Postgraduate,Male,23 years,Sligo,140
+Postgraduate,Male,23 years,Cavan,92
+Postgraduate,Male,23 years,Donegal,262
+Postgraduate,Male,23 years,Monaghan,87
+Postgraduate,Male,24 years,State,12305
+Postgraduate,Male,24 years,Carlow,85
+Postgraduate,Male,24 years,Dublin City,2790
+Postgraduate,Male,24 years,Dun Laoghaire-Rathdown,1421
+Postgraduate,Male,24 years,Fingal,965
+Postgraduate,Male,24 years,South Dublin,674
+Postgraduate,Male,24 years,Kildare,531
+Postgraduate,Male,24 years,Kilkenny,169
+Postgraduate,Male,24 years,Laois,95
+Postgraduate,Male,24 years,Longford,43
+Postgraduate,Male,24 years,Louth,188
+Postgraduate,Male,24 years,Meath,333
+Postgraduate,Male,24 years,Offaly,106
+Postgraduate,Male,24 years,Westmeath,178
+Postgraduate,Male,24 years,Wexford,183
+Postgraduate,Male,24 years,Wicklow,347
+Postgraduate,Male,24 years,Clare,240
+Postgraduate,Male,24 years,Cork City,440
+Postgraduate,Male,24 years,Cork County,1031
+Postgraduate,Male,24 years,Kerry,226
+Postgraduate,Male,24 years,Limerick City and County,363
+Postgraduate,Male,24 years,Tipperary,203
+Postgraduate,Male,24 years,Waterford City and County,193
+Postgraduate,Male,24 years,Galway City,278
+Postgraduate,Male,24 years,Galway County,396
+Postgraduate,Male,24 years,Leitrim,47
+Postgraduate,Male,24 years,Mayo,188
+Postgraduate,Male,24 years,Roscommon,96
+Postgraduate,Male,24 years,Sligo,126
+Postgraduate,Male,24 years,Cavan,81
+Postgraduate,Male,24 years,Donegal,219
+Postgraduate,Male,24 years,Monaghan,70
+Postgraduate,Male,25 years and over,State,38602
+Postgraduate,Male,25 years and over,Carlow,275
+Postgraduate,Male,25 years and over,Dublin City,8385
+Postgraduate,Male,25 years and over,Dun Laoghaire-Rathdown,3848
+Postgraduate,Male,25 years and over,Fingal,2734
+Postgraduate,Male,25 years and over,South Dublin,2018
+Postgraduate,Male,25 years and over,Kildare,1738
+Postgraduate,Male,25 years and over,Kilkenny,605
+Postgraduate,Male,25 years and over,Laois,340
+Postgraduate,Male,25 years and over,Longford,146
+Postgraduate,Male,25 years and over,Louth,773
+Postgraduate,Male,25 years and over,Meath,1176
+Postgraduate,Male,25 years and over,Offaly,316
+Postgraduate,Male,25 years and over,Westmeath,554
+Postgraduate,Male,25 years and over,Wexford,707
+Postgraduate,Male,25 years and over,Wicklow,1152
+Postgraduate,Male,25 years and over,Clare,783
+Postgraduate,Male,25 years and over,Cork City,1404
+Postgraduate,Male,25 years and over,Cork County,2812
+Postgraduate,Male,25 years and over,Kerry,766
+Postgraduate,Male,25 years and over,Limerick City and County,1312
+Postgraduate,Male,25 years and over,Tipperary,704
+Postgraduate,Male,25 years and over,Waterford City and County,722
+Postgraduate,Male,25 years and over,Galway City,1113
+Postgraduate,Male,25 years and over,Galway County,1312
+Postgraduate,Male,25 years and over,Leitrim,163
+Postgraduate,Male,25 years and over,Mayo,708
+Postgraduate,Male,25 years and over,Roscommon,303
+Postgraduate,Male,25 years and over,Sligo,462
+Postgraduate,Male,25 years and over,Cavan,271
+Postgraduate,Male,25 years and over,Donegal,820
+Postgraduate,Male,25 years and over,Monaghan,180
+Postgraduate,Female,18 years,State,3460
+Postgraduate,Female,18 years,Carlow,39
+Postgraduate,Female,18 years,Dublin City,431
+Postgraduate,Female,18 years,Dun Laoghaire-Rathdown,266
+Postgraduate,Female,18 years,Fingal,310
+Postgraduate,Female,18 years,South Dublin,256
+Postgraduate,Female,18 years,Kildare,185
+Postgraduate,Female,18 years,Kilkenny,67
+Postgraduate,Female,18 years,Laois,50
+Postgraduate,Female,18 years,Longford,15
+Postgraduate,Female,18 years,Louth,82
+Postgraduate,Female,18 years,Meath,136
+Postgraduate,Female,18 years,Offaly,30
+Postgraduate,Female,18 years,Westmeath,50
+Postgraduate,Female,18 years,Wexford,89
+Postgraduate,Female,18 years,Wicklow,117
+Postgraduate,Female,18 years,Clare,75
+Postgraduate,Female,18 years,Cork City,75
+Postgraduate,Female,18 years,Cork County,256
+Postgraduate,Female,18 years,Kerry,99
+Postgraduate,Female,18 years,Limerick City and County,117
+Postgraduate,Female,18 years,Tipperary,96
+Postgraduate,Female,18 years,Waterford City and County,92
+Postgraduate,Female,18 years,Galway City,56
+Postgraduate,Female,18 years,Galway County,105
+Postgraduate,Female,18 years,Leitrim,37
+Postgraduate,Female,18 years,Mayo,80
+Postgraduate,Female,18 years,Roscommon,43
+Postgraduate,Female,18 years,Sligo,41
+Postgraduate,Female,18 years,Cavan,33
+Postgraduate,Female,18 years,Donegal,91
+Postgraduate,Female,18 years,Monaghan,41
+Postgraduate,Female,19 years,State,1458
+Postgraduate,Female,19 years,Carlow,17
+Postgraduate,Female,19 years,Dublin City,187
+Postgraduate,Female,19 years,Dun Laoghaire-Rathdown,102
+Postgraduate,Female,19 years,Fingal,118
+Postgraduate,Female,19 years,South Dublin,109
+Postgraduate,Female,19 years,Kildare,95
+Postgraduate,Female,19 years,Kilkenny,27
+Postgraduate,Female,19 years,Laois,24
+Postgraduate,Female,19 years,Longford,7
+Postgraduate,Female,19 years,Louth,32
+Postgraduate,Female,19 years,Meath,68
+Postgraduate,Female,19 years,Offaly,16
+Postgraduate,Female,19 years,Westmeath,18
+Postgraduate,Female,19 years,Wexford,37
+Postgraduate,Female,19 years,Wicklow,35
+Postgraduate,Female,19 years,Clare,33
+Postgraduate,Female,19 years,Cork City,48
+Postgraduate,Female,19 years,Cork County,125
+Postgraduate,Female,19 years,Kerry,29
+Postgraduate,Female,19 years,Limerick City and County,50
+Postgraduate,Female,19 years,Tipperary,31
+Postgraduate,Female,19 years,Waterford City and County,32
+Postgraduate,Female,19 years,Galway City,25
+Postgraduate,Female,19 years,Galway County,48
+Postgraduate,Female,19 years,Leitrim,7
+Postgraduate,Female,19 years,Mayo,34
+Postgraduate,Female,19 years,Roscommon,27
+Postgraduate,Female,19 years,Sligo,16
+Postgraduate,Female,19 years,Cavan,17
+Postgraduate,Female,19 years,Donegal,36
+Postgraduate,Female,19 years,Monaghan,8
+Postgraduate,Female,20 years,State,4043
+Postgraduate,Female,20 years,Carlow,32
+Postgraduate,Female,20 years,Dublin City,527
+Postgraduate,Female,20 years,Dun Laoghaire-Rathdown,285
+Postgraduate,Female,20 years,Fingal,289
+Postgraduate,Female,20 years,South Dublin,200
+Postgraduate,Female,20 years,Kildare,245
+Postgraduate,Female,20 years,Kilkenny,59
+Postgraduate,Female,20 years,Laois,44
+Postgraduate,Female,20 years,Longford,29
+Postgraduate,Female,20 years,Louth,106
+Postgraduate,Female,20 years,Meath,174
+Postgraduate,Female,20 years,Offaly,66
+Postgraduate,Female,20 years,Westmeath,87
+Postgraduate,Female,20 years,Wexford,122
+Postgraduate,Female,20 years,Wicklow,129
+Postgraduate,Female,20 years,Clare,84
+Postgraduate,Female,20 years,Cork City,77
+Postgraduate,Female,20 years,Cork County,356
+Postgraduate,Female,20 years,Kerry,84
+Postgraduate,Female,20 years,Limerick City and County,130
+Postgraduate,Female,20 years,Tipperary,109
+Postgraduate,Female,20 years,Waterford City and County,82
+Postgraduate,Female,20 years,Galway City,83
+Postgraduate,Female,20 years,Galway County,175
+Postgraduate,Female,20 years,Leitrim,43
+Postgraduate,Female,20 years,Mayo,90
+Postgraduate,Female,20 years,Roscommon,46
+Postgraduate,Female,20 years,Sligo,75
+Postgraduate,Female,20 years,Cavan,54
+Postgraduate,Female,20 years,Donegal,121
+Postgraduate,Female,20 years,Monaghan,40
+Postgraduate,Female,21 years,State,15515
+Postgraduate,Female,21 years,Carlow,139
+Postgraduate,Female,21 years,Dublin City,2304
+Postgraduate,Female,21 years,Dun Laoghaire-Rathdown,1345
+Postgraduate,Female,21 years,Fingal,1066
+Postgraduate,Female,21 years,South Dublin,830
+Postgraduate,Female,21 years,Kildare,803
+Postgraduate,Female,21 years,Kilkenny,284
+Postgraduate,Female,21 years,Laois,223
+Postgraduate,Female,21 years,Longford,93
+Postgraduate,Female,21 years,Louth,329
+Postgraduate,Female,21 years,Meath,600
+Postgraduate,Female,21 years,Offaly,219
+Postgraduate,Female,21 years,Westmeath,238
+Postgraduate,Female,21 years,Wexford,372
+Postgraduate,Female,21 years,Wicklow,415
+Postgraduate,Female,21 years,Clare,334
+Postgraduate,Female,21 years,Cork City,316
+Postgraduate,Female,21 years,Cork County,1376
+Postgraduate,Female,21 years,Kerry,364
+Postgraduate,Female,21 years,Limerick City and County,468
+Postgraduate,Female,21 years,Tipperary,394
+Postgraduate,Female,21 years,Waterford City and County,294
+Postgraduate,Female,21 years,Galway City,361
+Postgraduate,Female,21 years,Galway County,655
+Postgraduate,Female,21 years,Leitrim,103
+Postgraduate,Female,21 years,Mayo,355
+Postgraduate,Female,21 years,Roscommon,190
+Postgraduate,Female,21 years,Sligo,217
+Postgraduate,Female,21 years,Cavan,202
+Postgraduate,Female,21 years,Donegal,486
+Postgraduate,Female,21 years,Monaghan,140
+Postgraduate,Female,22 years,State,19405
+Postgraduate,Female,22 years,Carlow,136
+Postgraduate,Female,22 years,Dublin City,3337
+Postgraduate,Female,22 years,Dun Laoghaire-Rathdown,2006
+Postgraduate,Female,22 years,Fingal,1315
+Postgraduate,Female,22 years,South Dublin,1039
+Postgraduate,Female,22 years,Kildare,927
+Postgraduate,Female,22 years,Kilkenny,401
+Postgraduate,Female,22 years,Laois,242
+Postgraduate,Female,22 years,Longford,92
+Postgraduate,Female,22 years,Louth,369
+Postgraduate,Female,22 years,Meath,642
+Postgraduate,Female,22 years,Offaly,188
+Postgraduate,Female,22 years,Westmeath,270
+Postgraduate,Female,22 years,Wexford,409
+Postgraduate,Female,22 years,Wicklow,557
+Postgraduate,Female,22 years,Clare,390
+Postgraduate,Female,22 years,Cork City,480
+Postgraduate,Female,22 years,Cork County,1762
+Postgraduate,Female,22 years,Kerry,448
+Postgraduate,Female,22 years,Limerick City and County,584
+Postgraduate,Female,22 years,Tipperary,451
+Postgraduate,Female,22 years,Waterford City and County,352
+Postgraduate,Female,22 years,Galway City,393
+Postgraduate,Female,22 years,Galway County,763
+Postgraduate,Female,22 years,Leitrim,104
+Postgraduate,Female,22 years,Mayo,414
+Postgraduate,Female,22 years,Roscommon,220
+Postgraduate,Female,22 years,Sligo,249
+Postgraduate,Female,22 years,Cavan,200
+Postgraduate,Female,22 years,Donegal,490
+Postgraduate,Female,22 years,Monaghan,175
+Postgraduate,Female,23 years,State,18797
+Postgraduate,Female,23 years,Carlow,111
+Postgraduate,Female,23 years,Dublin City,3836
+Postgraduate,Female,23 years,Dun Laoghaire-Rathdown,1865
+Postgraduate,Female,23 years,Fingal,1251
+Postgraduate,Female,23 years,South Dublin,985
+Postgraduate,Female,23 years,Kildare,867
+Postgraduate,Female,23 years,Kilkenny,338
+Postgraduate,Female,23 years,Laois,238
+Postgraduate,Female,23 years,Longford,71
+Postgraduate,Female,23 years,Louth,363
+Postgraduate,Female,23 years,Meath,575
+Postgraduate,Female,23 years,Offaly,160
+Postgraduate,Female,23 years,Westmeath,272
+Postgraduate,Female,23 years,Wexford,398
+Postgraduate,Female,23 years,Wicklow,542
+Postgraduate,Female,23 years,Clare,350
+Postgraduate,Female,23 years,Cork City,583
+Postgraduate,Female,23 years,Cork County,1632
+Postgraduate,Female,23 years,Kerry,397
+Postgraduate,Female,23 years,Limerick City and County,539
+Postgraduate,Female,23 years,Tipperary,382
+Postgraduate,Female,23 years,Waterford City and County,353
+Postgraduate,Female,23 years,Galway City,395
+Postgraduate,Female,23 years,Galway County,688
+Postgraduate,Female,23 years,Leitrim,91
+Postgraduate,Female,23 years,Mayo,383
+Postgraduate,Female,23 years,Roscommon,182
+Postgraduate,Female,23 years,Sligo,201
+Postgraduate,Female,23 years,Cavan,165
+Postgraduate,Female,23 years,Donegal,426
+Postgraduate,Female,23 years,Monaghan,158
+Postgraduate,Female,24 years,State,15886
+Postgraduate,Female,24 years,Carlow,147
+Postgraduate,Female,24 years,Dublin City,3130
+Postgraduate,Female,24 years,Dun Laoghaire-Rathdown,1510
+Postgraduate,Female,24 years,Fingal,1174
+Postgraduate,Female,24 years,South Dublin,819
+Postgraduate,Female,24 years,Kildare,700
+Postgraduate,Female,24 years,Kilkenny,307
+Postgraduate,Female,24 years,Laois,182
+Postgraduate,Female,24 years,Longford,65
+Postgraduate,Female,24 years,Louth,270
+Postgraduate,Female,24 years,Meath,501
+Postgraduate,Female,24 years,Offaly,178
+Postgraduate,Female,24 years,Westmeath,257
+Postgraduate,Female,24 years,Wexford,347
+Postgraduate,Female,24 years,Wicklow,422
+Postgraduate,Female,24 years,Clare,310
+Postgraduate,Female,24 years,Cork City,474
+Postgraduate,Female,24 years,Cork County,1413
+Postgraduate,Female,24 years,Kerry,330
+Postgraduate,Female,24 years,Limerick City and County,469
+Postgraduate,Female,24 years,Tipperary,341
+Postgraduate,Female,24 years,Waterford City and County,281
+Postgraduate,Female,24 years,Galway City,380
+Postgraduate,Female,24 years,Galway County,566
+Postgraduate,Female,24 years,Leitrim,73
+Postgraduate,Female,24 years,Mayo,331
+Postgraduate,Female,24 years,Roscommon,140
+Postgraduate,Female,24 years,Sligo,201
+Postgraduate,Female,24 years,Cavan,161
+Postgraduate,Female,24 years,Donegal,289
+Postgraduate,Female,24 years,Monaghan,118
+Postgraduate,Female,25 years and over,State,50374
+Postgraduate,Female,25 years and over,Carlow,400
+Postgraduate,Female,25 years and over,Dublin City,9394
+Postgraduate,Female,25 years and over,Dun Laoghaire-Rathdown,4252
+Postgraduate,Female,25 years and over,Fingal,3231
+Postgraduate,Female,25 years and over,South Dublin,2410
+Postgraduate,Female,25 years and over,Kildare,2257
+Postgraduate,Female,25 years and over,Kilkenny,925
+Postgraduate,Female,25 years and over,Laois,610
+Postgraduate,Female,25 years and over,Longford,221
+Postgraduate,Female,25 years and over,Louth,958
+Postgraduate,Female,25 years and over,Meath,1577
+Postgraduate,Female,25 years and over,Offaly,510
+Postgraduate,Female,25 years and over,Westmeath,746
+Postgraduate,Female,25 years and over,Wexford,1047
+Postgraduate,Female,25 years and over,Wicklow,1488
+Postgraduate,Female,25 years and over,Clare,1220
+Postgraduate,Female,25 years and over,Cork City,1595
+Postgraduate,Female,25 years and over,Cork County,4293
+Postgraduate,Female,25 years and over,Kerry,1234
+Postgraduate,Female,25 years and over,Limerick City and County,1753
+Postgraduate,Female,25 years and over,Tipperary,1239
+Postgraduate,Female,25 years and over,Waterford City and County,963
+Postgraduate,Female,25 years and over,Galway City,1482
+Postgraduate,Female,25 years and over,Galway County,2030
+Postgraduate,Female,25 years and over,Leitrim,320
+Postgraduate,Female,25 years and over,Mayo,1127
+Postgraduate,Female,25 years and over,Roscommon,505
+Postgraduate,Female,25 years and over,Sligo,623
+Postgraduate,Female,25 years and over,Cavan,445
+Postgraduate,Female,25 years and over,Donegal,1121
+Postgraduate,Female,25 years and over,Monaghan,398
+Ph.D,Male,18 years,State,111
+Ph.D,Male,18 years,Carlow,2
+Ph.D,Male,18 years,Dublin City,16
+Ph.D,Male,18 years,Dun Laoghaire-Rathdown,12
+Ph.D,Male,18 years,Fingal,9
+Ph.D,Male,18 years,South Dublin,8
+Ph.D,Male,18 years,Kildare,7
+Ph.D,Male,18 years,Kilkenny,1
+Ph.D,Male,18 years,Laois,2
+Ph.D,Male,18 years,Longford,1
+Ph.D,Male,18 years,Louth,2
+Ph.D,Male,18 years,Meath,6
+Ph.D,Male,18 years,Offaly,0
+Ph.D,Male,18 years,Westmeath,1
+Ph.D,Male,18 years,Wexford,4
+Ph.D,Male,18 years,Wicklow,2
+Ph.D,Male,18 years,Clare,1
+Ph.D,Male,18 years,Cork City,8
+Ph.D,Male,18 years,Cork County,6
+Ph.D,Male,18 years,Kerry,0
+Ph.D,Male,18 years,Limerick City and County,4
+Ph.D,Male,18 years,Tipperary,4
+Ph.D,Male,18 years,Waterford City and County,4
+Ph.D,Male,18 years,Galway City,2
+Ph.D,Male,18 years,Galway County,1
+Ph.D,Male,18 years,Leitrim,0
+Ph.D,Male,18 years,Mayo,1
+Ph.D,Male,18 years,Roscommon,2
+Ph.D,Male,18 years,Sligo,1
+Ph.D,Male,18 years,Cavan,1
+Ph.D,Male,18 years,Donegal,3
+Ph.D,Male,18 years,Monaghan,0
+Ph.D,Male,19 years,State,45
+Ph.D,Male,19 years,Carlow,0
+Ph.D,Male,19 years,Dublin City,9
+Ph.D,Male,19 years,Dun Laoghaire-Rathdown,3
+Ph.D,Male,19 years,Fingal,6
+Ph.D,Male,19 years,South Dublin,1
+Ph.D,Male,19 years,Kildare,1
+Ph.D,Male,19 years,Kilkenny,0
+Ph.D,Male,19 years,Laois,1
+Ph.D,Male,19 years,Longford,1
+Ph.D,Male,19 years,Louth,1
+Ph.D,Male,19 years,Meath,2
+Ph.D,Male,19 years,Offaly,1
+Ph.D,Male,19 years,Westmeath,0
+Ph.D,Male,19 years,Wexford,1
+Ph.D,Male,19 years,Wicklow,4
+Ph.D,Male,19 years,Clare,0
+Ph.D,Male,19 years,Cork City,0
+Ph.D,Male,19 years,Cork County,4
+Ph.D,Male,19 years,Kerry,0
+Ph.D,Male,19 years,Limerick City and County,1
+Ph.D,Male,19 years,Tipperary,1
+Ph.D,Male,19 years,Waterford City and County,3
+Ph.D,Male,19 years,Galway City,2
+Ph.D,Male,19 years,Galway County,0
+Ph.D,Male,19 years,Leitrim,1
+Ph.D,Male,19 years,Mayo,1
+Ph.D,Male,19 years,Roscommon,0
+Ph.D,Male,19 years,Sligo,0
+Ph.D,Male,19 years,Cavan,0
+Ph.D,Male,19 years,Donegal,1
+Ph.D,Male,19 years,Monaghan,0
+Ph.D,Male,20 years,State,99
+Ph.D,Male,20 years,Carlow,1
+Ph.D,Male,20 years,Dublin City,15
+Ph.D,Male,20 years,Dun Laoghaire-Rathdown,12
+Ph.D,Male,20 years,Fingal,7
+Ph.D,Male,20 years,South Dublin,3
+Ph.D,Male,20 years,Kildare,4
+Ph.D,Male,20 years,Kilkenny,1
+Ph.D,Male,20 years,Laois,0
+Ph.D,Male,20 years,Longford,0
+Ph.D,Male,20 years,Louth,0
+Ph.D,Male,20 years,Meath,4
+Ph.D,Male,20 years,Offaly,0
+Ph.D,Male,20 years,Westmeath,1
+Ph.D,Male,20 years,Wexford,1
+Ph.D,Male,20 years,Wicklow,1
+Ph.D,Male,20 years,Clare,0
+Ph.D,Male,20 years,Cork City,6
+Ph.D,Male,20 years,Cork County,12
+Ph.D,Male,20 years,Kerry,2
+Ph.D,Male,20 years,Limerick City and County,11
+Ph.D,Male,20 years,Tipperary,6
+Ph.D,Male,20 years,Waterford City and County,1
+Ph.D,Male,20 years,Galway City,2
+Ph.D,Male,20 years,Galway County,6
+Ph.D,Male,20 years,Leitrim,0
+Ph.D,Male,20 years,Mayo,2
+Ph.D,Male,20 years,Roscommon,0
+Ph.D,Male,20 years,Sligo,0
+Ph.D,Male,20 years,Cavan,0
+Ph.D,Male,20 years,Donegal,1
+Ph.D,Male,20 years,Monaghan,0
+Ph.D,Male,21 years,State,304
+Ph.D,Male,21 years,Carlow,1
+Ph.D,Male,21 years,Dublin City,49
+Ph.D,Male,21 years,Dun Laoghaire-Rathdown,49
+Ph.D,Male,21 years,Fingal,23
+Ph.D,Male,21 years,South Dublin,17
+Ph.D,Male,21 years,Kildare,14
+Ph.D,Male,21 years,Kilkenny,2
+Ph.D,Male,21 years,Laois,2
+Ph.D,Male,21 years,Longford,0
+Ph.D,Male,21 years,Louth,4
+Ph.D,Male,21 years,Meath,8
+Ph.D,Male,21 years,Offaly,1
+Ph.D,Male,21 years,Westmeath,3
+Ph.D,Male,21 years,Wexford,1
+Ph.D,Male,21 years,Wicklow,9
+Ph.D,Male,21 years,Clare,2
+Ph.D,Male,21 years,Cork City,11
+Ph.D,Male,21 years,Cork County,31
+Ph.D,Male,21 years,Kerry,9
+Ph.D,Male,21 years,Limerick City and County,20
+Ph.D,Male,21 years,Tipperary,6
+Ph.D,Male,21 years,Waterford City and County,8
+Ph.D,Male,21 years,Galway City,6
+Ph.D,Male,21 years,Galway County,9
+Ph.D,Male,21 years,Leitrim,1
+Ph.D,Male,21 years,Mayo,6
+Ph.D,Male,21 years,Roscommon,1
+Ph.D,Male,21 years,Sligo,3
+Ph.D,Male,21 years,Cavan,1
+Ph.D,Male,21 years,Donegal,7
+Ph.D,Male,21 years,Monaghan,0
+Ph.D,Male,22 years,State,362
+Ph.D,Male,22 years,Carlow,3
+Ph.D,Male,22 years,Dublin City,58
+Ph.D,Male,22 years,Dun Laoghaire-Rathdown,47
+Ph.D,Male,22 years,Fingal,21
+Ph.D,Male,22 years,South Dublin,15
+Ph.D,Male,22 years,Kildare,18
+Ph.D,Male,22 years,Kilkenny,8
+Ph.D,Male,22 years,Laois,0
+Ph.D,Male,22 years,Longford,1
+Ph.D,Male,22 years,Louth,5
+Ph.D,Male,22 years,Meath,15
+Ph.D,Male,22 years,Offaly,3
+Ph.D,Male,22 years,Westmeath,2
+Ph.D,Male,22 years,Wexford,4
+Ph.D,Male,22 years,Wicklow,11
+Ph.D,Male,22 years,Clare,10
+Ph.D,Male,22 years,Cork City,15
+Ph.D,Male,22 years,Cork County,35
+Ph.D,Male,22 years,Kerry,4
+Ph.D,Male,22 years,Limerick City and County,15
+Ph.D,Male,22 years,Tipperary,9
+Ph.D,Male,22 years,Waterford City and County,17
+Ph.D,Male,22 years,Galway City,11
+Ph.D,Male,22 years,Galway County,16
+Ph.D,Male,22 years,Leitrim,2
+Ph.D,Male,22 years,Mayo,5
+Ph.D,Male,22 years,Roscommon,1
+Ph.D,Male,22 years,Sligo,4
+Ph.D,Male,22 years,Cavan,1
+Ph.D,Male,22 years,Donegal,4
+Ph.D,Male,22 years,Monaghan,2
+Ph.D,Male,23 years,State,676
+Ph.D,Male,23 years,Carlow,0
+Ph.D,Male,23 years,Dublin City,128
+Ph.D,Male,23 years,Dun Laoghaire-Rathdown,92
+Ph.D,Male,23 years,Fingal,47
+Ph.D,Male,23 years,South Dublin,36
+Ph.D,Male,23 years,Kildare,24
+Ph.D,Male,23 years,Kilkenny,7
+Ph.D,Male,23 years,Laois,4
+Ph.D,Male,23 years,Longford,1
+Ph.D,Male,23 years,Louth,13
+Ph.D,Male,23 years,Meath,21
+Ph.D,Male,23 years,Offaly,3
+Ph.D,Male,23 years,Westmeath,8
+Ph.D,Male,23 years,Wexford,11
+Ph.D,Male,23 years,Wicklow,27
+Ph.D,Male,23 years,Clare,10
+Ph.D,Male,23 years,Cork City,31
+Ph.D,Male,23 years,Cork County,66
+Ph.D,Male,23 years,Kerry,7
+Ph.D,Male,23 years,Limerick City and County,24
+Ph.D,Male,23 years,Tipperary,9
+Ph.D,Male,23 years,Waterford City and County,12
+Ph.D,Male,23 years,Galway City,18
+Ph.D,Male,23 years,Galway County,35
+Ph.D,Male,23 years,Leitrim,0
+Ph.D,Male,23 years,Mayo,14
+Ph.D,Male,23 years,Roscommon,6
+Ph.D,Male,23 years,Sligo,3
+Ph.D,Male,23 years,Cavan,1
+Ph.D,Male,23 years,Donegal,18
+Ph.D,Male,23 years,Monaghan,0
+Ph.D,Male,24 years,State,1138
+Ph.D,Male,24 years,Carlow,4
+Ph.D,Male,24 years,Dublin City,202
+Ph.D,Male,24 years,Dun Laoghaire-Rathdown,179
+Ph.D,Male,24 years,Fingal,69
+Ph.D,Male,24 years,South Dublin,45
+Ph.D,Male,24 years,Kildare,43
+Ph.D,Male,24 years,Kilkenny,8
+Ph.D,Male,24 years,Laois,11
+Ph.D,Male,24 years,Longford,2
+Ph.D,Male,24 years,Louth,10
+Ph.D,Male,24 years,Meath,28
+Ph.D,Male,24 years,Offaly,7
+Ph.D,Male,24 years,Westmeath,11
+Ph.D,Male,24 years,Wexford,14
+Ph.D,Male,24 years,Wicklow,37
+Ph.D,Male,24 years,Clare,22
+Ph.D,Male,24 years,Cork City,48
+Ph.D,Male,24 years,Cork County,115
+Ph.D,Male,24 years,Kerry,22
+Ph.D,Male,24 years,Limerick City and County,35
+Ph.D,Male,24 years,Tipperary,17
+Ph.D,Male,24 years,Waterford City and County,32
+Ph.D,Male,24 years,Galway City,51
+Ph.D,Male,24 years,Galway County,57
+Ph.D,Male,24 years,Leitrim,3
+Ph.D,Male,24 years,Mayo,14
+Ph.D,Male,24 years,Roscommon,7
+Ph.D,Male,24 years,Sligo,11
+Ph.D,Male,24 years,Cavan,6
+Ph.D,Male,24 years,Donegal,25
+Ph.D,Male,24 years,Monaghan,3
+Ph.D,Male,25 years and over,State,10263
+Ph.D,Male,25 years and over,Carlow,64
+Ph.D,Male,25 years and over,Dublin City,2159
+Ph.D,Male,25 years and over,Dun Laoghaire-Rathdown,1292
+Ph.D,Male,25 years and over,Fingal,669
+Ph.D,Male,25 years and over,South Dublin,490
+Ph.D,Male,25 years and over,Kildare,474
+Ph.D,Male,25 years and over,Kilkenny,99
+Ph.D,Male,25 years and over,Laois,67
+Ph.D,Male,25 years and over,Longford,25
+Ph.D,Male,25 years and over,Louth,143
+Ph.D,Male,25 years and over,Meath,235
+Ph.D,Male,25 years and over,Offaly,42
+Ph.D,Male,25 years and over,Westmeath,105
+Ph.D,Male,25 years and over,Wexford,138
+Ph.D,Male,25 years and over,Wicklow,301
+Ph.D,Male,25 years and over,Clare,192
+Ph.D,Male,25 years and over,Cork City,519
+Ph.D,Male,25 years and over,Cork County,909
+Ph.D,Male,25 years and over,Kerry,185
+Ph.D,Male,25 years and over,Limerick City and County,431
+Ph.D,Male,25 years and over,Tipperary,167
+Ph.D,Male,25 years and over,Waterford City and County,182
+Ph.D,Male,25 years and over,Galway City,436
+Ph.D,Male,25 years and over,Galway County,406
+Ph.D,Male,25 years and over,Leitrim,31
+Ph.D,Male,25 years and over,Mayo,136
+Ph.D,Male,25 years and over,Roscommon,49
+Ph.D,Male,25 years and over,Sligo,98
+Ph.D,Male,25 years and over,Cavan,47
+Ph.D,Male,25 years and over,Donegal,145
+Ph.D,Male,25 years and over,Monaghan,27
+Ph.D,Female,18 years,State,83
+Ph.D,Female,18 years,Carlow,0
+Ph.D,Female,18 years,Dublin City,18
+Ph.D,Female,18 years,Dun Laoghaire-Rathdown,10
+Ph.D,Female,18 years,Fingal,5
+Ph.D,Female,18 years,South Dublin,4
+Ph.D,Female,18 years,Kildare,4
+Ph.D,Female,18 years,Kilkenny,1
+Ph.D,Female,18 years,Laois,1
+Ph.D,Female,18 years,Longford,1
+Ph.D,Female,18 years,Louth,1
+Ph.D,Female,18 years,Meath,0
+Ph.D,Female,18 years,Offaly,1
+Ph.D,Female,18 years,Westmeath,1
+Ph.D,Female,18 years,Wexford,0
+Ph.D,Female,18 years,Wicklow,3
+Ph.D,Female,18 years,Clare,5
+Ph.D,Female,18 years,Cork City,5
+Ph.D,Female,18 years,Cork County,4
+Ph.D,Female,18 years,Kerry,1
+Ph.D,Female,18 years,Limerick City and County,3
+Ph.D,Female,18 years,Tipperary,1
+Ph.D,Female,18 years,Waterford City and County,1
+Ph.D,Female,18 years,Galway City,3
+Ph.D,Female,18 years,Galway County,2
+Ph.D,Female,18 years,Leitrim,0
+Ph.D,Female,18 years,Mayo,2
+Ph.D,Female,18 years,Roscommon,1
+Ph.D,Female,18 years,Sligo,3
+Ph.D,Female,18 years,Cavan,0
+Ph.D,Female,18 years,Donegal,2
+Ph.D,Female,18 years,Monaghan,0
+Ph.D,Female,19 years,State,48
+Ph.D,Female,19 years,Carlow,0
+Ph.D,Female,19 years,Dublin City,14
+Ph.D,Female,19 years,Dun Laoghaire-Rathdown,5
+Ph.D,Female,19 years,Fingal,6
+Ph.D,Female,19 years,South Dublin,3
+Ph.D,Female,19 years,Kildare,1
+Ph.D,Female,19 years,Kilkenny,1
+Ph.D,Female,19 years,Laois,0
+Ph.D,Female,19 years,Longford,0
+Ph.D,Female,19 years,Louth,0
+Ph.D,Female,19 years,Meath,1
+Ph.D,Female,19 years,Offaly,0
+Ph.D,Female,19 years,Westmeath,0
+Ph.D,Female,19 years,Wexford,0
+Ph.D,Female,19 years,Wicklow,2
+Ph.D,Female,19 years,Clare,1
+Ph.D,Female,19 years,Cork City,2
+Ph.D,Female,19 years,Cork County,3
+Ph.D,Female,19 years,Kerry,0
+Ph.D,Female,19 years,Limerick City and County,2
+Ph.D,Female,19 years,Tipperary,1
+Ph.D,Female,19 years,Waterford City and County,1
+Ph.D,Female,19 years,Galway City,0
+Ph.D,Female,19 years,Galway County,2
+Ph.D,Female,19 years,Leitrim,1
+Ph.D,Female,19 years,Mayo,2
+Ph.D,Female,19 years,Roscommon,0
+Ph.D,Female,19 years,Sligo,0
+Ph.D,Female,19 years,Cavan,0
+Ph.D,Female,19 years,Donegal,0
+Ph.D,Female,19 years,Monaghan,0
+Ph.D,Female,20 years,State,112
+Ph.D,Female,20 years,Carlow,2
+Ph.D,Female,20 years,Dublin City,24
+Ph.D,Female,20 years,Dun Laoghaire-Rathdown,10
+Ph.D,Female,20 years,Fingal,9
+Ph.D,Female,20 years,South Dublin,8
+Ph.D,Female,20 years,Kildare,11
+Ph.D,Female,20 years,Kilkenny,1
+Ph.D,Female,20 years,Laois,0
+Ph.D,Female,20 years,Longford,0
+Ph.D,Female,20 years,Louth,2
+Ph.D,Female,20 years,Meath,1
+Ph.D,Female,20 years,Offaly,0
+Ph.D,Female,20 years,Westmeath,1
+Ph.D,Female,20 years,Wexford,1
+Ph.D,Female,20 years,Wicklow,2
+Ph.D,Female,20 years,Clare,4
+Ph.D,Female,20 years,Cork City,4
+Ph.D,Female,20 years,Cork County,5
+Ph.D,Female,20 years,Kerry,4
+Ph.D,Female,20 years,Limerick City and County,6
+Ph.D,Female,20 years,Tipperary,5
+Ph.D,Female,20 years,Waterford City and County,3
+Ph.D,Female,20 years,Galway City,2
+Ph.D,Female,20 years,Galway County,0
+Ph.D,Female,20 years,Leitrim,0
+Ph.D,Female,20 years,Mayo,1
+Ph.D,Female,20 years,Roscommon,2
+Ph.D,Female,20 years,Sligo,3
+Ph.D,Female,20 years,Cavan,0
+Ph.D,Female,20 years,Donegal,1
+Ph.D,Female,20 years,Monaghan,0
+Ph.D,Female,21 years,State,346
+Ph.D,Female,21 years,Carlow,2
+Ph.D,Female,21 years,Dublin City,65
+Ph.D,Female,21 years,Dun Laoghaire-Rathdown,50
+Ph.D,Female,21 years,Fingal,28
+Ph.D,Female,21 years,South Dublin,13
+Ph.D,Female,21 years,Kildare,13
+Ph.D,Female,21 years,Kilkenny,7
+Ph.D,Female,21 years,Laois,2
+Ph.D,Female,21 years,Longford,3
+Ph.D,Female,21 years,Louth,5
+Ph.D,Female,21 years,Meath,11
+Ph.D,Female,21 years,Offaly,0
+Ph.D,Female,21 years,Westmeath,2
+Ph.D,Female,21 years,Wexford,5
+Ph.D,Female,21 years,Wicklow,13
+Ph.D,Female,21 years,Clare,6
+Ph.D,Female,21 years,Cork City,7
+Ph.D,Female,21 years,Cork County,21
+Ph.D,Female,21 years,Kerry,3
+Ph.D,Female,21 years,Limerick City and County,11
+Ph.D,Female,21 years,Tipperary,11
+Ph.D,Female,21 years,Waterford City and County,7
+Ph.D,Female,21 years,Galway City,13
+Ph.D,Female,21 years,Galway County,15
+Ph.D,Female,21 years,Leitrim,2
+Ph.D,Female,21 years,Mayo,3
+Ph.D,Female,21 years,Roscommon,5
+Ph.D,Female,21 years,Sligo,8
+Ph.D,Female,21 years,Cavan,3
+Ph.D,Female,21 years,Donegal,12
+Ph.D,Female,21 years,Monaghan,0
+Ph.D,Female,22 years,State,321
+Ph.D,Female,22 years,Carlow,1
+Ph.D,Female,22 years,Dublin City,60
+Ph.D,Female,22 years,Dun Laoghaire-Rathdown,36
+Ph.D,Female,22 years,Fingal,23
+Ph.D,Female,22 years,South Dublin,15
+Ph.D,Female,22 years,Kildare,17
+Ph.D,Female,22 years,Kilkenny,7
+Ph.D,Female,22 years,Laois,3
+Ph.D,Female,22 years,Longford,2
+Ph.D,Female,22 years,Louth,1
+Ph.D,Female,22 years,Meath,16
+Ph.D,Female,22 years,Offaly,2
+Ph.D,Female,22 years,Westmeath,1
+Ph.D,Female,22 years,Wexford,12
+Ph.D,Female,22 years,Wicklow,16
+Ph.D,Female,22 years,Clare,8
+Ph.D,Female,22 years,Cork City,10
+Ph.D,Female,22 years,Cork County,23
+Ph.D,Female,22 years,Kerry,6
+Ph.D,Female,22 years,Limerick City and County,11
+Ph.D,Female,22 years,Tipperary,5
+Ph.D,Female,22 years,Waterford City and County,11
+Ph.D,Female,22 years,Galway City,9
+Ph.D,Female,22 years,Galway County,10
+Ph.D,Female,22 years,Leitrim,1
+Ph.D,Female,22 years,Mayo,4
+Ph.D,Female,22 years,Roscommon,1
+Ph.D,Female,22 years,Sligo,2
+Ph.D,Female,22 years,Cavan,0
+Ph.D,Female,22 years,Donegal,7
+Ph.D,Female,22 years,Monaghan,1
+Ph.D,Female,23 years,State,462
+Ph.D,Female,23 years,Carlow,0
+Ph.D,Female,23 years,Dublin City,91
+Ph.D,Female,23 years,Dun Laoghaire-Rathdown,70
+Ph.D,Female,23 years,Fingal,35
+Ph.D,Female,23 years,South Dublin,21
+Ph.D,Female,23 years,Kildare,12
+Ph.D,Female,23 years,Kilkenny,2
+Ph.D,Female,23 years,Laois,3
+Ph.D,Female,23 years,Longford,0
+Ph.D,Female,23 years,Louth,6
+Ph.D,Female,23 years,Meath,13
+Ph.D,Female,23 years,Offaly,2
+Ph.D,Female,23 years,Westmeath,4
+Ph.D,Female,23 years,Wexford,9
+Ph.D,Female,23 years,Wicklow,7
+Ph.D,Female,23 years,Clare,7
+Ph.D,Female,23 years,Cork City,11
+Ph.D,Female,23 years,Cork County,44
+Ph.D,Female,23 years,Kerry,15
+Ph.D,Female,23 years,Limerick City and County,8
+Ph.D,Female,23 years,Tipperary,7
+Ph.D,Female,23 years,Waterford City and County,12
+Ph.D,Female,23 years,Galway City,21
+Ph.D,Female,23 years,Galway County,24
+Ph.D,Female,23 years,Leitrim,0
+Ph.D,Female,23 years,Mayo,6
+Ph.D,Female,23 years,Roscommon,5
+Ph.D,Female,23 years,Sligo,4
+Ph.D,Female,23 years,Cavan,4
+Ph.D,Female,23 years,Donegal,13
+Ph.D,Female,23 years,Monaghan,6
+Ph.D,Female,24 years,State,723
+Ph.D,Female,24 years,Carlow,8
+Ph.D,Female,24 years,Dublin City,140
+Ph.D,Female,24 years,Dun Laoghaire-Rathdown,97
+Ph.D,Female,24 years,Fingal,47
+Ph.D,Female,24 years,South Dublin,30
+Ph.D,Female,24 years,Kildare,27
+Ph.D,Female,24 years,Kilkenny,8
+Ph.D,Female,24 years,Laois,4
+Ph.D,Female,24 years,Longford,1
+Ph.D,Female,24 years,Louth,17
+Ph.D,Female,24 years,Meath,25
+Ph.D,Female,24 years,Offaly,3
+Ph.D,Female,24 years,Westmeath,12
+Ph.D,Female,24 years,Wexford,8
+Ph.D,Female,24 years,Wicklow,21
+Ph.D,Female,24 years,Clare,12
+Ph.D,Female,24 years,Cork City,31
+Ph.D,Female,24 years,Cork County,76
+Ph.D,Female,24 years,Kerry,16
+Ph.D,Female,24 years,Limerick City and County,18
+Ph.D,Female,24 years,Tipperary,11
+Ph.D,Female,24 years,Waterford City and County,13
+Ph.D,Female,24 years,Galway City,38
+Ph.D,Female,24 years,Galway County,27
+Ph.D,Female,24 years,Leitrim,2
+Ph.D,Female,24 years,Mayo,6
+Ph.D,Female,24 years,Roscommon,4
+Ph.D,Female,24 years,Sligo,9
+Ph.D,Female,24 years,Cavan,2
+Ph.D,Female,24 years,Donegal,7
+Ph.D,Female,24 years,Monaghan,3
+Ph.D,Female,25 years and over,State,8188
+Ph.D,Female,25 years and over,Carlow,56
+Ph.D,Female,25 years and over,Dublin City,1819
+Ph.D,Female,25 years and over,Dun Laoghaire-Rathdown,939
+Ph.D,Female,25 years and over,Fingal,484
+Ph.D,Female,25 years and over,South Dublin,367
+Ph.D,Female,25 years and over,Kildare,415
+Ph.D,Female,25 years and over,Kilkenny,79
+Ph.D,Female,25 years and over,Laois,43
+Ph.D,Female,25 years and over,Longford,23
+Ph.D,Female,25 years and over,Louth,104
+Ph.D,Female,25 years and over,Meath,208
+Ph.D,Female,25 years and over,Offaly,51
+Ph.D,Female,25 years and over,Westmeath,73
+Ph.D,Female,25 years and over,Wexford,89
+Ph.D,Female,25 years and over,Wicklow,243
+Ph.D,Female,25 years and over,Clare,164
+Ph.D,Female,25 years and over,Cork City,375
+Ph.D,Female,25 years and over,Cork County,766
+Ph.D,Female,25 years and over,Kerry,128
+Ph.D,Female,25 years and over,Limerick City and County,324
+Ph.D,Female,25 years and over,Tipperary,157
+Ph.D,Female,25 years and over,Waterford City and County,140
+Ph.D,Female,25 years and over,Galway City,333
+Ph.D,Female,25 years and over,Galway County,362
+Ph.D,Female,25 years and over,Leitrim,32
+Ph.D,Female,25 years and over,Mayo,104
+Ph.D,Female,25 years and over,Roscommon,52
+Ph.D,Female,25 years and over,Sligo,83
+Ph.D,Female,25 years and over,Cavan,35
+Ph.D,Female,25 years and over,Donegal,105
+Ph.D,Female,25 years and over,Monaghan,35

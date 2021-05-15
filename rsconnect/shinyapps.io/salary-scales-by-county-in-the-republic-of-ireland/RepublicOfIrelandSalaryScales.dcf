@@ -1,0 +1,13 @@
+name: RepublicOfIrelandSalaryScales
+title: RepublicOfIrelandSalaryScales
+username:
+account: salary-scales-by-county-in-the-republic-of-ireland
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4062283
+bundleId: 4560429
+url: https://salary-scales-by-county-in-the-republic-of-ireland.shinyapps.io/RepublicOfIrelandSalaryScales/
+when: 1620221074.09646
+lastSyncTime: 1620221074.09646
+asMultiple: FALSE
+asStatic: FALSE
